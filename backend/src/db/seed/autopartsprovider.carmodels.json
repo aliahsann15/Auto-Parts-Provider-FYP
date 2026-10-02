@@ -1,0 +1,3560 @@
+[{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9d9"
+  },
+  "make": "Acura",
+  "modelName": "Integra",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Hatchback"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9da"
+  },
+  "make": "Acura",
+  "modelName": "NSX",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9db"
+  },
+  "make": "Acura",
+  "modelName": "RL",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9dc"
+  },
+  "make": "Acura",
+  "modelName": "TL",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9dd"
+  },
+  "make": "Audi",
+  "modelName": "A4",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Wagon",
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9de"
+  },
+  "make": "Audi",
+  "modelName": "A6",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Wagon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9df"
+  },
+  "make": "Audi",
+  "modelName": "A8",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9e0"
+  },
+  "make": "Audi",
+  "modelName": "S4",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9e1"
+  },
+  "make": "Audi",
+  "modelName": "TT",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9e2"
+  },
+  "make": "BMW",
+  "modelName": "3 Series",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Wagon",
+    "Convertible",
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9e3"
+  },
+  "make": "BMW",
+  "modelName": "5 Series",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Wagon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9e4"
+  },
+  "make": "BMW",
+  "modelName": "7 Series",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9e5"
+  },
+  "make": "BMW",
+  "modelName": "M",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Hatchback",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9e6"
+  },
+  "make": "BMW",
+  "modelName": "M5",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9e7"
+  },
+  "year": 2000,
+  "modelName": "X5",
+  "make": "BMW",
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9e8"
+  },
+  "make": "BMW",
+  "modelName": "Z3",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Convertible",
+    "Hatchback"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9e9"
+  },
+  "make": "BMW",
+  "modelName": "Z8",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9ea"
+  },
+  "make": "Buick",
+  "modelName": "Century",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9eb"
+  },
+  "make": "Buick",
+  "modelName": "LeSabre",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9ec"
+  },
+  "make": "Buick",
+  "modelName": "Park Avenue",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9ed"
+  },
+  "make": "Buick",
+  "modelName": "Regal",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9ee"
+  },
+  "make": "Cadillac",
+  "modelName": "Catera",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9ef"
+  },
+  "make": "Cadillac",
+  "modelName": "DeVille",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9f0"
+  },
+  "make": "Cadillac",
+  "modelName": "Eldorado",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9f1"
+  },
+  "make": "Cadillac",
+  "modelName": "Escalade",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9f2"
+  },
+  "make": "Cadillac",
+  "modelName": "Seville",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9f3"
+  },
+  "make": "Chevrolet",
+  "modelName": "2500 Crew Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9f4"
+  },
+  "make": "Chevrolet",
+  "modelName": "2500 HD Extended Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9f5"
+  },
+  "make": "Chevrolet",
+  "modelName": "2500 HD Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9f6"
+  },
+  "make": "Chevrolet",
+  "modelName": "3500 Crew Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9f7"
+  },
+  "make": "Chevrolet",
+  "modelName": "3500 Extended Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9f8"
+  },
+  "make": "Chevrolet",
+  "modelName": "3500 Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9f9"
+  },
+  "make": "Chevrolet",
+  "modelName": "Astro Cargo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9fa"
+  },
+  "make": "Chevrolet",
+  "modelName": "Astro Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9fb"
+  },
+  "make": "Chevrolet",
+  "modelName": "Blazer",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9fc"
+  },
+  "make": "Chevrolet",
+  "modelName": "Camaro",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9fd"
+  },
+  "make": "Chevrolet",
+  "modelName": "Cavalier",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Sedan",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9fe"
+  },
+  "make": "Chevrolet",
+  "modelName": "Corvette",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0e9ff"
+  },
+  "make": "Chevrolet",
+  "modelName": "Express 1500 Cargo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea00"
+  },
+  "make": "Chevrolet",
+  "modelName": "Express 1500 Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea01"
+  },
+  "make": "Chevrolet",
+  "modelName": "Express 2500 Cargo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea02"
+  },
+  "make": "Chevrolet",
+  "modelName": "Express 2500 Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea03"
+  },
+  "make": "Chevrolet",
+  "modelName": "Express 3500 Cargo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea04"
+  },
+  "make": "Chevrolet",
+  "modelName": "Express 3500 Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea05"
+  },
+  "make": "Chevrolet",
+  "modelName": "Impala",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea06"
+  },
+  "make": "Chevrolet",
+  "modelName": "Lumina",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea07"
+  },
+  "make": "Chevrolet",
+  "modelName": "Malibu",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea08"
+  },
+  "make": "Chevrolet",
+  "modelName": "Metro",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Hatchback",
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea09"
+  },
+  "make": "Chevrolet",
+  "modelName": "Monte Carlo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea0a"
+  },
+  "make": "Chevrolet",
+  "modelName": "Prizm",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea0b"
+  },
+  "make": "Chevrolet",
+  "modelName": "S10 Extended Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea0c"
+  },
+  "make": "Chevrolet",
+  "modelName": "S10 Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea0d"
+  },
+  "make": "Chevrolet",
+  "modelName": "Silverado 1500 Extended Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea0e"
+  },
+  "make": "Chevrolet",
+  "modelName": "Silverado 1500 Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea0f"
+  },
+  "make": "Chevrolet",
+  "modelName": "Silverado 2500 Extended Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea10"
+  },
+  "make": "Chevrolet",
+  "modelName": "Silverado 2500 HD Extended Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea11"
+  },
+  "make": "Chevrolet",
+  "modelName": "Silverado 2500 HD Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea12"
+  },
+  "make": "Chevrolet",
+  "modelName": "Silverado 2500 Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea13"
+  },
+  "make": "Chevrolet",
+  "modelName": "Suburban 1500",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea14"
+  },
+  "make": "Chevrolet",
+  "modelName": "Suburban 2500",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea15"
+  },
+  "make": "Chevrolet",
+  "modelName": "Tahoe",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea16"
+  },
+  "make": "Chevrolet",
+  "modelName": "Tahoe (New)",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea17"
+  },
+  "make": "Chevrolet",
+  "modelName": "Tracker",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea18"
+  },
+  "make": "Chevrolet",
+  "modelName": "Venture Cargo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea19"
+  },
+  "make": "Chevrolet",
+  "modelName": "Venture Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea1a"
+  },
+  "make": "Chrysler",
+  "modelName": "300M",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea1b"
+  },
+  "make": "Chrysler",
+  "modelName": "Cirrus",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea1c"
+  },
+  "make": "Chrysler",
+  "modelName": "Concorde",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea1d"
+  },
+  "make": "Chrysler",
+  "modelName": "Grand Voyager",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea1e"
+  },
+  "make": "Chrysler",
+  "modelName": "LHS",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea1f"
+  },
+  "make": "Chrysler",
+  "modelName": "Sebring",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea20"
+  },
+  "make": "Chrysler",
+  "modelName": "Town & Country",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea21"
+  },
+  "make": "Chrysler",
+  "modelName": "Voyager",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea22"
+  },
+  "make": "Daewoo",
+  "modelName": "Lanos",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Hatchback"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea23"
+  },
+  "make": "Daewoo",
+  "modelName": "Leganza",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea24"
+  },
+  "year": 2000,
+  "modelName": "Nubira",
+  "make": "Daewoo",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Wagon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea25"
+  },
+  "make": "Dodge",
+  "modelName": "Avenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea26"
+  },
+  "make": "Dodge",
+  "modelName": "Caravan Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea27"
+  },
+  "year": 2000,
+  "modelName": "Dakota Club Cab",
+  "make": "Dodge",
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea28"
+  },
+  "make": "Dodge",
+  "modelName": "Dakota Quad Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea29"
+  },
+  "make": "Dodge",
+  "modelName": "Dakota Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea2a"
+  },
+  "year": 2000,
+  "modelName": "Durango",
+  "make": "Dodge",
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea2b"
+  },
+  "make": "Dodge",
+  "modelName": "Grand Caravan Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea2c"
+  },
+  "make": "Dodge",
+  "modelName": "Intrepid",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea2d"
+  },
+  "year": 2000,
+  "modelName": "Neon",
+  "make": "Dodge",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea2e"
+  },
+  "make": "Dodge",
+  "modelName": "Ram 1500 Club Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea2f"
+  },
+  "make": "Dodge",
+  "modelName": "Ram 1500 Quad Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea30"
+  },
+  "year": 2000,
+  "modelName": "Ram 1500 Regular Cab",
+  "make": "Dodge",
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea31"
+  },
+  "make": "Dodge",
+  "modelName": "Ram 2500 Quad Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea32"
+  },
+  "make": "Dodge",
+  "modelName": "Ram 2500 Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea33"
+  },
+  "year": 2000,
+  "modelName": "Ram 3500 Quad Cab",
+  "make": "Dodge",
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea34"
+  },
+  "make": "Dodge",
+  "modelName": "Ram 3500 Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea35"
+  },
+  "make": "Dodge",
+  "modelName": "Ram Van 1500",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea36"
+  },
+  "year": 2000,
+  "modelName": "Ram Van 2500",
+  "make": "Dodge",
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea37"
+  },
+  "make": "Dodge",
+  "modelName": "Ram Van 3500",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea38"
+  },
+  "make": "Dodge",
+  "modelName": "Ram Wagon 1500",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea39"
+  },
+  "year": 2000,
+  "modelName": "Ram Wagon 2500",
+  "make": "Dodge",
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea3a"
+  },
+  "make": "Dodge",
+  "modelName": "Ram Wagon 3500",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea3b"
+  },
+  "make": "Dodge",
+  "modelName": "Stratus",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea3c"
+  },
+  "year": 2000,
+  "modelName": "Viper",
+  "make": "Dodge",
+  "__v": 0,
+  "bodyStyles": [
+    "Convertible",
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea3d"
+  },
+  "make": "Ford",
+  "modelName": "Contour",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea3e"
+  },
+  "make": "Ford",
+  "modelName": "Crown Victoria",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea3f"
+  },
+  "year": 2000,
+  "modelName": "Econoline E150 Cargo",
+  "make": "Ford",
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea40"
+  },
+  "make": "Ford",
+  "modelName": "Econoline E150 Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea41"
+  },
+  "make": "Ford",
+  "modelName": "Econoline E250 Cargo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea42"
+  },
+  "year": 2000,
+  "modelName": "Econoline E350 Super Duty Cargo",
+  "make": "Ford",
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea43"
+  },
+  "make": "Ford",
+  "modelName": "Econoline E350 Super Duty Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea44"
+  },
+  "make": "Ford",
+  "modelName": "Escort",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea45"
+  },
+  "make": "Ford",
+  "modelName": "Excursion",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea46"
+  },
+  "make": "Ford",
+  "modelName": "Expedition",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea47"
+  },
+  "make": "Ford",
+  "modelName": "Explorer",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea48"
+  },
+  "make": "Ford",
+  "modelName": "Explorer Sport",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea49"
+  },
+  "make": "Ford",
+  "modelName": "F150 Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea4a"
+  },
+  "make": "Ford",
+  "modelName": "F150 Super Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea4b"
+  },
+  "make": "Ford",
+  "modelName": "F250 Super Duty Crew Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea4c"
+  },
+  "make": "Ford",
+  "modelName": "F250 Super Duty Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea4d"
+  },
+  "make": "Ford",
+  "modelName": "F250 Super Duty Super Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea4e"
+  },
+  "make": "Ford",
+  "modelName": "F350 Super Duty Crew Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea4f"
+  },
+  "make": "Ford",
+  "modelName": "F350 Super Duty Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea50"
+  },
+  "make": "Ford",
+  "modelName": "F350 Super Duty Super Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea51"
+  },
+  "make": "Ford",
+  "modelName": "Focus",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Hatchback",
+    "Wagon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea52"
+  },
+  "make": "Ford",
+  "modelName": "Mustang",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Convertible",
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea53"
+  },
+  "make": "Ford",
+  "modelName": "Ranger Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea54"
+  },
+  "make": "Ford",
+  "modelName": "Ranger Super Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea55"
+  },
+  "make": "Ford",
+  "modelName": "Taurus",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Wagon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea56"
+  },
+  "make": "Ford",
+  "modelName": "Windstar Cargo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea57"
+  },
+  "make": "Ford",
+  "modelName": "Windstar Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea58"
+  },
+  "make": "GMC",
+  "modelName": "Envoy",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea59"
+  },
+  "make": "GMC",
+  "modelName": "Jimmy",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea5a"
+  },
+  "make": "GMC",
+  "modelName": "Safari Cargo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea5b"
+  },
+  "make": "GMC",
+  "modelName": "Safari Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea5c"
+  },
+  "make": "GMC",
+  "modelName": "Savana 1500 Cargo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea5d"
+  },
+  "make": "GMC",
+  "modelName": "Savana 1500 Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea5e"
+  },
+  "make": "GMC",
+  "modelName": "Savana 2500 Cargo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea5f"
+  },
+  "make": "GMC",
+  "modelName": "Savana 2500 Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea60"
+  },
+  "make": "GMC",
+  "modelName": "Savana 3500 Cargo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea61"
+  },
+  "make": "GMC",
+  "modelName": "Savana 3500 Passenger",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea62"
+  },
+  "make": "GMC",
+  "modelName": "Sierra (Classic) 2500 Crew Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea63"
+  },
+  "make": "GMC",
+  "modelName": "Sierra (Classic) 2500 HD Extended Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea64"
+  },
+  "make": "GMC",
+  "modelName": "Sierra (Classic) 2500 HD Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea65"
+  },
+  "make": "GMC",
+  "modelName": "Sierra (Classic) 3500 Crew Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea66"
+  },
+  "year": 2000,
+  "modelName": "Sierra (Classic) 3500 Extended Cab",
+  "make": "GMC",
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea67"
+  },
+  "make": "GMC",
+  "modelName": "Sierra (Classic) 3500 Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea68"
+  },
+  "make": "GMC",
+  "modelName": "Sierra 1500 Extended Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea69"
+  },
+  "year": 2000,
+  "modelName": "Sierra 1500 Regular Cab",
+  "make": "GMC",
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea6a"
+  },
+  "make": "GMC",
+  "modelName": "Sierra 2500 Extended Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea6b"
+  },
+  "make": "GMC",
+  "modelName": "Sierra 2500 HD Extended Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea6c"
+  },
+  "make": "GMC",
+  "modelName": "Sierra 2500 HD Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea6d"
+  },
+  "make": "GMC",
+  "modelName": "Sierra 2500 Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea6e"
+  },
+  "year": 2000,
+  "modelName": "Sonoma Extended Cab",
+  "make": "GMC",
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea6f"
+  },
+  "make": "GMC",
+  "modelName": "Sonoma Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea70"
+  },
+  "make": "GMC",
+  "modelName": "Yukon",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea71"
+  },
+  "year": 2000,
+  "modelName": "Yukon Denali",
+  "make": "GMC",
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea72"
+  },
+  "make": "GMC",
+  "modelName": "Yukon XL 1500",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea73"
+  },
+  "make": "GMC",
+  "modelName": "Yukon XL 2500",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea74"
+  },
+  "year": 2000,
+  "modelName": "Accord",
+  "make": "Honda",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea75"
+  },
+  "make": "Honda",
+  "modelName": "Civic",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Sedan",
+    "Hatchback"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea76"
+  },
+  "make": "Honda",
+  "modelName": "CR-V",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea77"
+  },
+  "year": 2000,
+  "modelName": "Insight",
+  "make": "Honda",
+  "__v": 0,
+  "bodyStyles": [
+    "Hatchback"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea78"
+  },
+  "make": "Honda",
+  "modelName": "Odyssey",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea79"
+  },
+  "make": "Honda",
+  "modelName": "Passport",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea7a"
+  },
+  "year": 2000,
+  "modelName": "Prelude",
+  "make": "Honda",
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea7b"
+  },
+  "make": "Honda",
+  "modelName": "S2000",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea7c"
+  },
+  "make": "HUMMER",
+  "modelName": "H1",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV",
+    "Wagon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea7d"
+  },
+  "year": 2000,
+  "modelName": "Accent",
+  "make": "Hyundai",
+  "__v": 0,
+  "bodyStyles": [
+    "Hatchback",
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea7e"
+  },
+  "make": "Hyundai",
+  "modelName": "Elantra",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Wagon",
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea7f"
+  },
+  "make": "Hyundai",
+  "modelName": "Sonata",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea80"
+  },
+  "year": 2000,
+  "modelName": "Tiburon",
+  "make": "Hyundai",
+  "__v": 0,
+  "bodyStyles": [
+    "Hatchback"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea81"
+  },
+  "make": "INFINITI",
+  "modelName": "G",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea82"
+  },
+  "make": "INFINITI",
+  "modelName": "I",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea83"
+  },
+  "year": 2000,
+  "modelName": "Q",
+  "make": "INFINITI",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea84"
+  },
+  "make": "INFINITI",
+  "modelName": "QX",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea85"
+  },
+  "make": "Isuzu",
+  "modelName": "Amigo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea86"
+  },
+  "year": 2000,
+  "modelName": "Hombre Regular Cab",
+  "make": "Isuzu",
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea87"
+  },
+  "make": "Isuzu",
+  "modelName": "Hombre Spacecab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea88"
+  },
+  "make": "Isuzu",
+  "modelName": "Rodeo",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea89"
+  },
+  "year": 2000,
+  "modelName": "Trooper",
+  "make": "Isuzu",
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea8a"
+  },
+  "make": "Isuzu",
+  "modelName": "VehiCROSS",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea8b"
+  },
+  "make": "Jaguar",
+  "modelName": "S-Type",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea8c"
+  },
+  "year": 2000,
+  "modelName": "XJ",
+  "make": "Jaguar",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea8d"
+  },
+  "make": "Jaguar",
+  "modelName": "XK",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea8e"
+  },
+  "make": "Jeep",
+  "modelName": "Cherokee",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea8f"
+  },
+  "year": 2000,
+  "modelName": "Grand Cherokee",
+  "make": "Jeep",
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea90"
+  },
+  "make": "Jeep",
+  "modelName": "Wrangler",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea91"
+  },
+  "make": "Kia",
+  "modelName": "Sephia",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea92"
+  },
+  "year": 2000,
+  "modelName": "Spectra",
+  "make": "Kia",
+  "__v": 0,
+  "bodyStyles": [
+    "Hatchback"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea93"
+  },
+  "make": "Kia",
+  "modelName": "Sportage",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea94"
+  },
+  "make": "Land Rover",
+  "modelName": "Discovery Series II",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea95"
+  },
+  "year": 2000,
+  "modelName": "Range Rover",
+  "make": "Land Rover",
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea96"
+  },
+  "make": "Lexus",
+  "modelName": "ES",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea97"
+  },
+  "make": "Lexus",
+  "modelName": "GS",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea98"
+  },
+  "year": 2000,
+  "modelName": "LS",
+  "make": "Lexus",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea99"
+  },
+  "make": "Lexus",
+  "modelName": "LX",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea9a"
+  },
+  "make": "Lexus",
+  "modelName": "RX",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea9b"
+  },
+  "year": 2000,
+  "modelName": "SC",
+  "make": "Lexus",
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea9c"
+  },
+  "make": "Lincoln",
+  "modelName": "Continental",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea9d"
+  },
+  "make": "Lincoln",
+  "modelName": "LS",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea9e"
+  },
+  "year": 2000,
+  "modelName": "Navigator",
+  "make": "Lincoln",
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ea9f"
+  },
+  "make": "Lincoln",
+  "modelName": "Town Car",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaa0"
+  },
+  "make": "MAZDA",
+  "modelName": "626",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaa1"
+  },
+  "year": 2000,
+  "modelName": "B-Series Cab Plus",
+  "make": "MAZDA",
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaa2"
+  },
+  "make": "MAZDA",
+  "modelName": "B-Series Regular Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaa3"
+  },
+  "year": 2000,
+  "modelName": "Millenia",
+  "make": "MAZDA",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaa4"
+  },
+  "year": 2000,
+  "modelName": "MPV",
+  "make": "MAZDA",
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaa5"
+  },
+  "make": "MAZDA",
+  "modelName": "MX-5 Miata",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaa6"
+  },
+  "year": 2000,
+  "modelName": "Protege",
+  "make": "MAZDA",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaa7"
+  },
+  "year": 2000,
+  "modelName": "C-Class",
+  "make": "Mercedes-Benz",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaa8"
+  },
+  "make": "Mercedes-Benz",
+  "modelName": "CL-Class",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaa9"
+  },
+  "year": 2000,
+  "modelName": "CLK-Class",
+  "make": "Mercedes-Benz",
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaaa"
+  },
+  "year": 2000,
+  "modelName": "E-Class",
+  "make": "Mercedes-Benz",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Wagon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaab"
+  },
+  "make": "Mercedes-Benz",
+  "modelName": "M-Class",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaac"
+  },
+  "year": 2000,
+  "modelName": "S-Class",
+  "make": "Mercedes-Benz",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaad"
+  },
+  "year": 2000,
+  "modelName": "SL-Class",
+  "make": "Mercedes-Benz",
+  "__v": 0,
+  "bodyStyles": [
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaae"
+  },
+  "make": "Mercedes-Benz",
+  "modelName": "SLK-Class",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaaf"
+  },
+  "year": 2000,
+  "modelName": "Cougar",
+  "make": "Mercury",
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eab0"
+  },
+  "year": 2000,
+  "modelName": "Grand Marquis",
+  "make": "Mercury",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eab1"
+  },
+  "make": "Mercury",
+  "modelName": "Mountaineer",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eab2"
+  },
+  "year": 2000,
+  "modelName": "Mystique",
+  "make": "Mercury",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eab3"
+  },
+  "year": 2000,
+  "modelName": "Sable",
+  "make": "Mercury",
+  "__v": 0,
+  "bodyStyles": [
+    "Wagon",
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eab4"
+  },
+  "make": "Mercury",
+  "modelName": "Villager",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eab5"
+  },
+  "year": 2000,
+  "modelName": "Diamante",
+  "make": "Mitsubishi",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eab6"
+  },
+  "year": 2000,
+  "modelName": "Eclipse",
+  "make": "Mitsubishi",
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eab7"
+  },
+  "make": "Mitsubishi",
+  "modelName": "Galant",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eab8"
+  },
+  "year": 2000,
+  "modelName": "Mirage",
+  "make": "Mitsubishi",
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eab9"
+  },
+  "year": 2000,
+  "modelName": "Montero",
+  "make": "Mitsubishi",
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaba"
+  },
+  "make": "Mitsubishi",
+  "modelName": "Montero Sport",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eabb"
+  },
+  "year": 2000,
+  "modelName": "Altima",
+  "make": "Nissan",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eabc"
+  },
+  "year": 2000,
+  "modelName": "Frontier Crew Cab",
+  "make": "Nissan",
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eabd"
+  },
+  "make": "Nissan",
+  "modelName": "Frontier King Cab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eabe"
+  },
+  "year": 2000,
+  "modelName": "Frontier Regular Cab",
+  "make": "Nissan",
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eabf"
+  },
+  "year": 2000,
+  "modelName": "Maxima",
+  "make": "Nissan",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eac0"
+  },
+  "make": "Nissan",
+  "modelName": "Pathfinder",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eac1"
+  },
+  "year": 2000,
+  "modelName": "Quest",
+  "make": "Nissan",
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eac2"
+  },
+  "year": 2000,
+  "modelName": "Sentra",
+  "make": "Nissan",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eac3"
+  },
+  "make": "Nissan",
+  "modelName": "Xterra",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eac4"
+  },
+  "year": 2000,
+  "modelName": "Alero",
+  "make": "Oldsmobile",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eac5"
+  },
+  "year": 2000,
+  "modelName": "Bravada",
+  "make": "Oldsmobile",
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eac6"
+  },
+  "make": "Oldsmobile",
+  "modelName": "Intrigue",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eac7"
+  },
+  "year": 2000,
+  "modelName": "Silhouette",
+  "make": "Oldsmobile",
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eac8"
+  },
+  "year": 2000,
+  "modelName": "Breeze",
+  "make": "Plymouth",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eac9"
+  },
+  "make": "Plymouth",
+  "modelName": "Grand Voyager",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaca"
+  },
+  "year": 2000,
+  "modelName": "Neon",
+  "make": "Plymouth",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eacb"
+  },
+  "year": 2000,
+  "modelName": "Prowler",
+  "make": "Plymouth",
+  "__v": 0,
+  "bodyStyles": [
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eacc"
+  },
+  "make": "Plymouth",
+  "modelName": "Voyager",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eacd"
+  },
+  "year": 2000,
+  "modelName": "Bonneville",
+  "make": "Pontiac",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eace"
+  },
+  "year": 2000,
+  "modelName": "Firebird",
+  "make": "Pontiac",
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eacf"
+  },
+  "make": "Pontiac",
+  "modelName": "Grand Am",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ead0"
+  },
+  "year": 2000,
+  "modelName": "Grand Prix",
+  "make": "Pontiac",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ead1"
+  },
+  "year": 2000,
+  "modelName": "Montana",
+  "make": "Pontiac",
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ead2"
+  },
+  "make": "Pontiac",
+  "modelName": "Sunfire",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Coupe",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ead3"
+  },
+  "year": 2000,
+  "modelName": "911",
+  "make": "Porsche",
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ead4"
+  },
+  "year": 2000,
+  "modelName": "Boxster",
+  "make": "Porsche",
+  "__v": 0,
+  "bodyStyles": [
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ead5"
+  },
+  "make": "Saab",
+  "modelName": "9-3",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Hatchback",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ead6"
+  },
+  "year": 2000,
+  "modelName": "9-5",
+  "make": "Saab",
+  "__v": 0,
+  "bodyStyles": [
+    "Wagon",
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ead7"
+  },
+  "year": 2000,
+  "modelName": "L-Series",
+  "make": "Saturn",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Wagon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ead8"
+  },
+  "make": "Saturn",
+  "modelName": "S-Series",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Sedan",
+    "Wagon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0ead9"
+  },
+  "year": 2000,
+  "modelName": "Forester",
+  "make": "Subaru",
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eada"
+  },
+  "year": 2000,
+  "modelName": "Impreza",
+  "make": "Subaru",
+  "__v": 0,
+  "bodyStyles": [
+    "Wagon",
+    "Sedan",
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eadb"
+  },
+  "make": "Subaru",
+  "modelName": "Legacy",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Wagon",
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eadc"
+  },
+  "year": 2000,
+  "modelName": "Outback",
+  "make": "Subaru",
+  "__v": 0,
+  "bodyStyles": [
+    "Wagon",
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eadd"
+  },
+  "year": 2000,
+  "modelName": "Esteem",
+  "make": "Suzuki",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Wagon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eade"
+  },
+  "make": "Suzuki",
+  "modelName": "Grand Vitara",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eadf"
+  },
+  "year": 2000,
+  "modelName": "Swift",
+  "make": "Suzuki",
+  "__v": 0,
+  "bodyStyles": [
+    "Hatchback"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eae0"
+  },
+  "year": 2000,
+  "modelName": "Vitara",
+  "make": "Suzuki",
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eae1"
+  },
+  "make": "Toyota",
+  "modelName": "4Runner",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eae2"
+  },
+  "year": 2000,
+  "modelName": "Avalon",
+  "make": "Toyota",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eae3"
+  },
+  "year": 2000,
+  "modelName": "Camry",
+  "make": "Toyota",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eae4"
+  },
+  "make": "Toyota",
+  "modelName": "Celica",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Hatchback"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eae5"
+  },
+  "year": 2000,
+  "modelName": "Corolla",
+  "make": "Toyota",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eae6"
+  },
+  "year": 2000,
+  "modelName": "Echo",
+  "make": "Toyota",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan",
+    "Coupe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eae7"
+  },
+  "make": "Toyota",
+  "modelName": "Land Cruiser",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eae8"
+  },
+  "year": 2000,
+  "modelName": "MR2",
+  "make": "Toyota",
+  "__v": 0,
+  "bodyStyles": [
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eae9"
+  },
+  "year": 2000,
+  "modelName": "RAV4",
+  "make": "Toyota",
+  "__v": 0,
+  "bodyStyles": [
+    "SUV"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaea"
+  },
+  "make": "Toyota",
+  "modelName": "Sienna",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaeb"
+  },
+  "year": 2000,
+  "modelName": "Solara",
+  "make": "Toyota",
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaec"
+  },
+  "year": 2000,
+  "modelName": "Tacoma Regular Cab",
+  "make": "Toyota",
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaed"
+  },
+  "make": "Toyota",
+  "modelName": "Tacoma Xtracab",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaee"
+  },
+  "year": 2000,
+  "modelName": "Tundra Access Cab",
+  "make": "Toyota",
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaef"
+  },
+  "year": 2000,
+  "modelName": "Tundra Regular Cab",
+  "make": "Toyota",
+  "__v": 0,
+  "bodyStyles": [
+    "Pickup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaf0"
+  },
+  "make": "Volkswagen",
+  "modelName": "Cabrio",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaf1"
+  },
+  "year": 2000,
+  "modelName": "Eurovan",
+  "make": "Volkswagen",
+  "__v": 0,
+  "bodyStyles": [
+    "Van/Minivan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaf2"
+  },
+  "year": 2000,
+  "modelName": "Golf",
+  "make": "Volkswagen",
+  "__v": 0,
+  "bodyStyles": [
+    "Hatchback"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaf3"
+  },
+  "make": "Volkswagen",
+  "modelName": "GTI",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Hatchback"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaf4"
+  },
+  "year": 2000,
+  "modelName": "Jetta",
+  "make": "Volkswagen",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaf5"
+  },
+  "year": 2000,
+  "modelName": "New Beetle",
+  "make": "Volkswagen",
+  "__v": 0,
+  "bodyStyles": [
+    "Hatchback"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaf6"
+  },
+  "make": "Volkswagen",
+  "modelName": "Passat",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Wagon",
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaf7"
+  },
+  "year": 2000,
+  "modelName": "C70",
+  "make": "Volvo",
+  "__v": 0,
+  "bodyStyles": [
+    "Coupe",
+    "Convertible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaf8"
+  },
+  "year": 2000,
+  "modelName": "S40",
+  "make": "Volvo",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eaf9"
+  },
+  "make": "Volvo",
+  "modelName": "S70",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eafa"
+  },
+  "year": 2000,
+  "modelName": "S80",
+  "make": "Volvo",
+  "__v": 0,
+  "bodyStyles": [
+    "Sedan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eafb"
+  },
+  "year": 2000,
+  "modelName": "V40",
+  "make": "Volvo",
+  "__v": 0,
+  "bodyStyles": [
+    "Wagon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "693e2665ff6d28a976b0eafc"
+  },
+  "make": "Volvo",
+  "modelName": "V70",
+  "year": 2000,
+  "__v": 0,
+  "bodyStyles": [
+    "Wagon"
+  ]
+}]

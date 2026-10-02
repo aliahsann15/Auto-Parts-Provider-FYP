@@ -1,0 +1,1210 @@
+[{
+  "_id": {
+    "$oid": "69399340b5f9a49a414d976e"
+  },
+  "user": {
+    "$oid": "69399267b5f9a49a414d9763"
+  },
+  "storeName": "Ibraheem Autos",
+  "storeBanners": [
+    "http://10.125.49.114:4001/images/uploads/1765382354329-4F0412E6-7467-40A6-B8E0-7617376B9DD2.jpeg"
+  ],
+  "storeSalesBanners": [
+    "http://10.125.49.114:4001/images/uploads/1765382346821-0602268F-6C06-4BF3-BD63-9B6273C67C35.jpeg"
+  ],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "salesBanner",
+    "banner",
+    "best",
+    "featured",
+    "sale",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "salesBanner": true,
+    "banner": true,
+    "best": true,
+    "featured": true,
+    "sale": true,
+    "reviews": false
+  },
+  "itemsSold": 0,
+  "reviewsCount": 0,
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-10T15:35:28.982Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-10T16:22:29.411Z"
+  },
+  "__v": 0,
+  "storeBio": "ahmed store bio",
+  "storeProfileImage": "http://10.125.49.114:4001/images/uploads/1765382861171-B57133CB-3F7C-41AC-862F-9B19200BB50F.jpeg",
+  "storeCoverImage": "http://10.125.49.114:4001/images/uploads/1765382338351-0A984BDA-54FD-476E-B0E1-027CABD5101B.jpeg"
+},
+{
+  "_id": {
+    "$oid": "69399f4553661a75ed480d7b"
+  },
+  "user": {
+    "$oid": "69399ef053661a75ed480d6d"
+  },
+  "storeName": "Ahmed Auto",
+  "storeBanners": [
+    "http://10.125.49.114:4001/images/uploads/1765384935921-523F19E1-BB20-4557-B218-2B339AEDD36E.jpeg"
+  ],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "itemsSold": 0,
+  "reviewsCount": 0,
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-10T16:26:45.499Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-10T18:41:09.346Z"
+  },
+  "__v": 0,
+  "storeBio": "THIS IS A STORE",
+  "storeProfileImage": "http://10.125.49.114:4001/images/uploads/1765384925084-73673841-E3F2-4229-AA99-7F00071EF961.jpeg",
+  "storeCoverImage": "http://10.125.49.114:4001/images/uploads/1765384931818-73A0740C-8002-45BC-A708-3505D6D419D8.jpeg"
+},
+{
+  "_id": {
+    "$oid": "6939e893da740731a82a6785"
+  },
+  "user": {
+    "$oid": "6939e3cd4df40cdcae06d034"
+  },
+  "storeName": "Demo Auto Parts",
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "itemsSold": 0,
+  "reviewsCount": 0,
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-10T21:39:31.009Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-10T21:39:31.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693ad29cff6d28a976b0e9c9"
+  },
+  "user": {
+    "$oid": "693ad29abb66a5227842258a"
+  },
+  "__v": 1,
+  "addresses": [
+    {
+      "street": "Jhang Bazarsss",
+      "city": "Faisalabad",
+      "postalCode": "38000",
+      "_id": {
+        "$oid": "693ad9e4bb66a52278422694"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-11T14:18:04.670Z"
+  },
+  "featuredProductIds": [
+    {
+      "$oid": "693aeb0a7bbde9327ed65ab4"
+    }
+  ],
+  "itemsSold": 0,
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "featured",
+    "salesBanner",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "featured": true,
+    "salesBanner": true,
+    "sale": false,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [
+    "http://10.125.49.114:4001/images/uploads/1765574010094-A99180DF-7CE0-4C4C-BFAD-0F233A4EB7B7.heic"
+  ],
+  "storeName": "Ahmed Autosss",
+  "storeSalesBanners": [
+    "http://10.125.49.114:4001/images/uploads/1765574010273-23F095CE-E7DD-4E2E-982E-CD0E102157B2.heic"
+  ],
+  "updatedAt": {
+    "$date": "2025-12-16T07:17:35.781Z"
+  },
+  "storeBio": "Store",
+  "storeProfileImage": "http://10.125.49.114:4001/images/uploads/1765469780378-C8FC1C7C-5DFE-414D-9FF7-C2514CE5D675.jpeg",
+  "storeCoverImage": "http://10.125.49.114:4001/images/uploads/1765570877612-03A7B03E-DE7A-4400-A276-DA161D632585.jpeg",
+  "managers": [
+    {
+      "$oid": "6941078f9d24edd82413d264"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "693b20f0ff6d28a976b0e9ca"
+  },
+  "user": {
+    "$oid": "693b20ee25f89a031b20652e"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "hshhshs",
+      "city": "Faisalabad",
+      "province": "Punjab",
+      "_id": {
+        "$oid": "693b20f025f89a031b206530"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-11T19:52:16.127Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "Autos",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-11T20:00:02.107Z"
+  },
+  "storeBio": "",
+  "storeProfileImage": "http://10.125.49.114:4001/images/uploads/1765483202074-32FA4113-9907-4089-8E44-D548D9FA7E36.jpeg"
+},
+{
+  "_id": {
+    "$oid": "693b2314ff6d28a976b0e9cb"
+  },
+  "user": {
+    "$oid": "693b231325f89a031b206589"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "nsnnss",
+      "city": "Faisalabad",
+      "province": "Punjab",
+      "_id": {
+        "$oid": "693b231425f89a031b20658b"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-11T20:01:24.899Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "ahmed",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-11T20:01:24.899Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693b247aff6d28a976b0e9cc"
+  },
+  "user": {
+    "$oid": "693b247825f89a031b206598"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "hdhdhd",
+      "city": "Lahore",
+      "province": "Punjab",
+      "_id": {
+        "$oid": "693b247a25f89a031b20659a"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-11T20:07:22.216Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "nsdb",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-11T20:07:22.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693b50328b07e833f7beeb34"
+  },
+  "user": {
+    "$oid": "6939e3cd4df40cdcae06d037"
+  },
+  "storeName": "Seed Buyer",
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "itemsSold": 0,
+  "reviewsCount": 0,
+  "averageRating": 0,
+  "addresses": [],
+  "createdAt": {
+    "$date": "2025-12-11T23:13:54.509Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-11T23:13:54.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693c06e05e8d4639eaf7ea6e"
+  },
+  "user": {
+    "$oid": "6925e0e9b575b2973f19726f"
+  },
+  "storeName": "Bilal Zahid",
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "itemsSold": 0,
+  "reviewsCount": 0,
+  "averageRating": 0,
+  "addresses": [],
+  "createdAt": {
+    "$date": "2025-12-12T12:13:20.217Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-12T12:13:20.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693c21efff6d28a976b0e9cd"
+  },
+  "user": {
+    "$oid": "693c21ed7e1eb310d1b41b45"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "Jhang Bazar",
+      "city": "Faisalabad",
+      "province": "Punjab",
+      "_id": {
+        "$oid": "693c21ef7e1eb310d1b41b47"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-12T14:08:47.242Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "Ali Autos",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-12T14:08:47.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693c4a4eff6d28a976b0e9ce"
+  },
+  "user": {
+    "$oid": "693c4a4cf6f285ba2e786252"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "Stret",
+      "city": "Lahore",
+      "province": "Punjab",
+      "_id": {
+        "$oid": "693c4a4ef6f285ba2e786254"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-12T17:01:02.841Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "Ali Autos",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-12T17:01:36.003Z"
+  },
+  "storeBio": "",
+  "storeCoverImage": "http://10.125.49.114:4001/images/uploads/1765558895966-776A7FDA-F3CE-4B77-AE24-8C3057E304F9.jpeg",
+  "storeProfileImage": "http://10.125.49.114:4001/images/uploads/1765558895871-2D16D55D-6904-4011-953A-7C8BC3373C0A.heic"
+},
+{
+  "_id": {
+    "$oid": "693e219fff6d28a976b0e9d3"
+  },
+  "user": {
+    "$oid": "693e219da417dc6e690c93cd"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "karim town",
+      "city": "Karachi",
+      "province": "Sindh",
+      "_id": {
+        "$oid": "693e219fa417dc6e690c93cf"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-14T02:31:59.368Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "managers": [],
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "Auto",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-14T02:31:59.368Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693e220fff6d28a976b0e9d5"
+  },
+  "user": {
+    "$oid": "693e220da417dc6e690c93d9"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "street",
+      "city": "Faisalabad",
+      "province": "Punjab",
+      "_id": {
+        "$oid": "693e220fa417dc6e690c93db"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-14T02:33:51.390Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "managers": [],
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "Autos",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-14T02:33:51.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693e22bbff6d28a976b0e9d7"
+  },
+  "user": {
+    "$oid": "693e22b9a417dc6e690c93f6"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "bzbsb",
+      "city": "Lahore",
+      "province": "Punjab",
+      "_id": {
+        "$oid": "693e22bba417dc6e690c93f8"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-14T02:36:43.297Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "managers": [],
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "Autos",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-14T02:36:43.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693e27dcff6d28a976b0eafd"
+  },
+  "user": {
+    "$oid": "693e27daa8a7897d18ea3017"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "street",
+      "city": "Lahore",
+      "province": "Punjab",
+      "_id": {
+        "$oid": "693e27dca8a7897d18ea3019"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-14T02:58:36.396Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "managers": [],
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "Autos",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-14T10:04:49.057Z"
+  },
+  "storeBio": "",
+  "storeProfileImage": "http://10.125.49.114:4001/images/uploads/1765705792033-A9BEE743-D3E3-4386-9348-400352B71154.jpeg"
+},
+{
+  "_id": {
+    "$oid": "693f7b85ff6d28a976b0eb09"
+  },
+  "user": {
+    "$oid": "693f7b835ca5d15bab2afa80"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "Canal road",
+      "city": "Faisalabad",
+      "province": "Punjab",
+      "_id": {
+        "$oid": "693f7b855ca5d15bab2afa82"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-15T03:07:49.121Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "managers": [],
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "Shehrooz Auto parts",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-15T03:07:49.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693fc4a5ff6d28a976b0eb0a"
+  },
+  "user": {
+    "$oid": "693fc4a234df913e4cf72c0e"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "Eden Executive, J Block, Shop 21",
+      "city": "Faisalabad",
+      "province": "Punjab",
+      "_id": {
+        "$oid": "693fc4a534df913e4cf72c12"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-15T08:19:49.363Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "managers": [],
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "Ahmed Auto Parts",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-15T08:19:49.363Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693fc5ceff6d28a976b0eb0b"
+  },
+  "user": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "__v": 1,
+  "addresses": [
+    {
+      "street": "Eden Executive, J Block, Shop 21",
+      "city": "Faisalabad",
+      "province": "Punjab",
+      "_id": {
+        "$oid": "693fc5ce34df913e4cf72d91"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-15T08:24:46.357Z"
+  },
+  "featuredProductIds": [
+    {
+      "$oid": "694093858921438752889b68"
+    },
+    {
+      "$oid": "694093858921438752889b69"
+    },
+    {
+      "$oid": "694093858921438752889b6b"
+    },
+    {
+      "$oid": "694093858921438752889b6d"
+    },
+    {
+      "$oid": "694093858921438752889b6f"
+    },
+    {
+      "$oid": "694093858921438752889b71"
+    }
+  ],
+  "itemsSold": 0,
+  "managers": [
+    {
+      "$oid": "6940f7c332ebf1afaab5e2a2"
+    }
+  ],
+  "reviewsCount": 0,
+  "saleProductIds": [
+    {
+      "$oid": "694093858921438752889b66"
+    },
+    {
+      "$oid": "694093858921438752889b67"
+    },
+    {
+      "$oid": "694093858921438752889b6a"
+    },
+    {
+      "$oid": "694093858921438752889b6e"
+    }
+  ],
+  "sectionsOrder": [
+    "banner",
+    "featured",
+    "salesBanner",
+    "best",
+    "sale",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "featured": true,
+    "salesBanner": true,
+    "best": true,
+    "sale": true,
+    "reviews": true
+  },
+  "storeBanners": [
+    "http://10.125.49.114:4001/images/uploads/1765788140039-36C77FA2-29EF-4743-B46C-20A87B5467AA.jpeg"
+  ],
+  "storeName": "Ahmed Auto Parts",
+  "storeSalesBanners": [
+    "http://10.125.49.114:4001/images/uploads/1765788140094-E729E3F3-C082-47DB-B1E1-12F6534BE703.jpeg"
+  ],
+  "updatedAt": {
+    "$date": "2025-12-16T06:10:11.180Z"
+  },
+  "storeBio": "Ahmed Auto Parts supplies performance upgrades in Pakistan, specializing in engine parts, filters, radiators/cooling, suspension, and pumps with verified fitment and reliable stock.",
+  "storeProfileImage": "http://10.125.49.114:4001/images/uploads/1765788618682-806D240F-2FD0-4BB0-AE10-C077079C2E47.jpeg",
+  "storeCoverImage": "http://10.125.49.114:4001/images/uploads/1765788618730-EDEAE45A-84F1-4D68-A2C2-932E9DEE63B7.jpeg"
+},
+{
+  "_id": {
+    "$oid": "693fd01cff6d28a976b0eb0c"
+  },
+  "user": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "Bilal Ganj Market, Shop 12",
+      "city": "Lahore",
+      "province": "Punjab",
+      "_id": {
+        "$oid": "693fd01c34df913e4cf740fc"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-15T09:08:44.953Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "managers": [],
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "featured",
+    "salesBanner",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "featured": true,
+    "salesBanner": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [
+    "http://10.125.49.114:4001/images/uploads/1765789933255-BA8F291C-A989-4D6C-B115-EA1B27B485C2.jpeg"
+  ],
+  "storeName": "Shehrooz Auto Parts",
+  "storeSalesBanners": [
+    "http://10.125.49.114:4001/images/uploads/1765789933293-5F660ED5-80E7-4484-911C-015E0EE72C28.jpeg"
+  ],
+  "updatedAt": {
+    "$date": "2025-12-15T09:14:11.757Z"
+  },
+  "storeBio": "Shehrooz Auto Parts supplies performance parts in Pakistan for engine, cooling, brakes, filters, pumps, and ignition, with verified fitment for Mercedes, Audi, Nissan, Ford, and BMW.",
+  "storeCoverImage": "http://10.125.49.114:4001/images/uploads/1765789933200-530B2D6B-14E1-4AFB-8D03-AA8E4C95EA45.jpeg",
+  "storeProfileImage": "http://10.125.49.114:4001/images/uploads/1765789933134-8AA392FC-827D-49F6-A688-4897E814E7D8.jpeg"
+},
+{
+  "_id": {
+    "$oid": "693fdb5c34df913e4cf787b8"
+  },
+  "user": {
+    "$oid": "693f1907df378c6441950ad9"
+  },
+  "storeName": "Bilal Zahid",
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "itemsSold": 0,
+  "reviewsCount": 0,
+  "averageRating": 0,
+  "managers": [],
+  "addresses": [],
+  "createdAt": {
+    "$date": "2025-12-15T09:56:44.255Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-15T09:56:44.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6940b729ff6d28a976b0ebe3"
+  },
+  "user": {
+    "$oid": "6940b7271571e53853e187cb"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "zbsbsb",
+      "city": "Karachi",
+      "province": "Sindh",
+      "_id": {
+        "$oid": "6940b7291571e53853e187cd"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-16T01:34:33.612Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "managers": [],
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "snsb",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-16T01:34:33.612Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6940bbf6ff6d28a976b0ebe4"
+  },
+  "user": {
+    "$oid": "6940bbf41571e53853e188bd"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "jsnshshsb",
+      "city": "Lahore",
+      "province": "Punjab",
+      "_id": {
+        "$oid": "6940bbf61571e53853e188bf"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-16T01:55:02.252Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "managers": [],
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "mnm",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-16T01:55:02.252Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6940f60bff6d28a976b0ebe5"
+  },
+  "user": {
+    "$oid": "6940f60932ebf1afaab5de31"
+  },
+  "__v": 0,
+  "addresses": [
+    {
+      "street": "House No. 20/16, Street No.3 Near Hafiz General Store, Kareem Town, Hilal Road, People's Colony No.2",
+      "city": "Faisalabad",
+      "province": "Punjab",
+      "postalCode": "38000",
+      "country": "Pakistan",
+      "_id": {
+        "$oid": "6940f60b32ebf1afaab5de3f"
+      }
+    }
+  ],
+  "averageRating": 0,
+  "createdAt": {
+    "$date": "2025-12-16T06:02:51.445Z"
+  },
+  "featuredProductIds": [],
+  "itemsSold": 0,
+  "managers": [],
+  "reviewsCount": 0,
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "storeBanners": [],
+  "storeName": "Digenics",
+  "storeSalesBanners": [],
+  "updatedAt": {
+    "$date": "2025-12-16T06:02:51.445Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "694110299d24edd82413f9a9"
+  },
+  "user": {
+    "$oid": "69409a038c1e3521381ff244"
+  },
+  "storeName": "Bilal Zahid",
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [
+    "banner",
+    "salesBanner",
+    "featured",
+    "sale",
+    "best",
+    "reviews"
+  ],
+  "sectionsVisibility": {
+    "banner": true,
+    "salesBanner": true,
+    "featured": true,
+    "sale": true,
+    "best": true,
+    "reviews": true
+  },
+  "itemsSold": 0,
+  "reviewsCount": 0,
+  "averageRating": 0,
+  "managers": [],
+  "addresses": [],
+  "createdAt": {
+    "$date": "2025-12-16T07:54:17.870Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-16T07:54:17.870Z"
+  },
+  "__v": 0
+}]

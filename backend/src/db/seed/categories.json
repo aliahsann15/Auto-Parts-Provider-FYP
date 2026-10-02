@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Brakes",
+      "description": "Pads, rotors, calipers and related components for stopping power.",
+      "slug": "brakes"
+    },
+    {
+      "name": "Filters",
+      "description": "Oil, air, fuel and cabin filters to keep your engine and cabin clean.",
+      "slug": "filters"
+    },
+    {
+      "name": "Lighting",
+      "description": "Headlights, taillights, fog lights and bulbs to illuminate the road.",
+      "slug": "lighting"
+    },
+    {
+      "name": "Ignition",
+      "description": "Spark plugs, coils and ignition wires for reliable engine starts.",
+      "slug": "ignition"
+    },
+    {
+      "name": "Suspension",
+      "description": "Shocks, struts, springs and bushings for a smooth ride.",
+      "slug": "suspension"
+    }
+  ]
+  

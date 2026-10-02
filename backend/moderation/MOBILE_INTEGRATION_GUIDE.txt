@@ -1,0 +1,748 @@
+================================================================================
+MOBILE CHAT MODERATION INTEGRATION GUIDE
+================================================================================
+
+PROJECT: Auto Parts Provider - React Native Mobile App
+MODERATION SYSTEM: Rule-Based PII Detection using Regex Pattern Matching
+ARCHITECTURE: Deterministic rule-based (not AI/ML based)
+TARGET: Buyer-Seller Chat Feature in Mobile App
+
+================================================================================
+OVERVIEW
+================================================================================
+
+This guide provides step-by-step instructions to integrate the chat moderation
+system into the React Native mobile application (located in /mobile folder).
+
+ARCHITECTURE:
+    Mobile App (React Native)
+        ↓ HTTP Request
+    Node.js Backend API (Express)
+        ↓ HTTP Request to Moderation Service
+    Python Moderation Service (FastAPI - Port 8000)
+        ↓ Rule-Based Regex Pattern Matching (No ML/AI)
+    Response: {allowed: true/false, reason: "phone_number|email|address|..."}
+
+
+================================================================================
+PREREQUISITES
+================================================================================
+
+1. ✓ Backend API running (Port 4000)
+2. ✓ Python Moderation Service running (Port 8000)
+3. ✓ MongoDB database connected
+4. ✓ Mobile app has authentication working
+5. ✓ Mobile app can make API calls to backend
+
+VERIFY:
+    - Backend: http://localhost:4001/api/health
+    - Moderation: http://localhost:8000/health
+
+
+================================================================================
+STEP 1: UNDERSTAND EXISTING MOBILE CHAT STRUCTURE
+================================================================================
+
+CURRENT FILES (check these first):
+    mobile/app/chat.tsx                    - Main chat screen
+    mobile/app/chatbox.tsx                 - Alternative chat UI
+    mobile/components/                     - Reusable chat components
+    mobile/utils/api.ts                    - API helper functions
+
+KEY MOBILE TECH STACK:
+    - React Native (Expo)
+    - TypeScript
+    - React Navigation
+    - Axios/Fetch for API calls
+    - AsyncStorage for local data
+
+
+================================================================================
+STEP 2: BACKEND API ENDPOINTS (WITH RULE-BASED MODERATION)
+================================================================================
+
+The backend already has rule-based PII detection integrated via the moderation
+service. Mobile just needs to call these endpoints - moderation is automatic:
+
+ENDPOINT 1: POST /api/chats/:requestId
+------------------------------------------
+Purpose: Send a new chat message
+URL: http://localhost:4001/api/chats/:requestId
+
+Headers:
+    Content-Type: application/json
+    Authorization: Bearer <token>
+
+Body:
+    {
+        "text": "message text",
+        "sellerId": "seller_id_here"  // For buyer
+        // OR omit sellerId for seller sending
+    }
+
+Success Response (200):
+    {
+        "item": {
+            "_id": "msg_id",
+            "requestId": "req_id",
+            "sender": "user_id",
+            "text": "message text",
+            "createdAt": "2025-12-14T...",
+            "readBy": []
+        }
+    }
+Blocked Response (400) - Message failed rule-based moderation:
+    {
+        "msg": "Message contains personal information. Please revise and resend.",
+        "reason": "phone_number"  
+        // Other reasons: email_address, address_detected, roman_urdu_contact, name_sharing_detected
+    }   "reason": "phone_number"  // or email_address, address_detected, etc.
+    }
+
+
+ENDPOINT 2: GET /api/chats/:requestId
+------------------------------------------
+Purpose: Fetch all messages for a request
+URL: http://localhost:4001/api/chats/:requestId?sellerId=<seller_id>
+
+Headers:
+    Authorization: Bearer <token>
+
+Response (200):
+    {
+        "items": [
+            { message objects... }
+        ]
+    }
+
+
+ENDPOINT 3: POST /api/chats/:requestId/read
+------------------------------------------
+Purpose: Mark messages as read
+URL: http://localhost:4001/api/chats/:requestId/read?sellerId=<seller_id>
+
+Headers:
+    Authorization: Bearer <token>
+
+
+ENDPOINT 4: GET /api/chats/threads
+------------------------------------------
+Purpose: Get list of chat threads (for seller)
+URL: http://localhost:4001/api/chats/threads
+
+Headers:
+    Authorization: Bearer <token>
+
+Response (200):
+    {
+        "threads": [
+            {
+                "requestId": "...",
+                "buyerName": "...",
+                "lastMessage": "...",
+                "lastMessageTime": "...",
+                "unreadCount": 0
+            }
+        ]
+    }
+
+
+================================================================================
+STEP 3: MOBILE APP INTEGRATION - BUYER SIDE
+================================================================================
+
+FILE: mobile/app/chat.tsx (or create new BuyerChatScreen.tsx)
+
+STEP 3.1: Setup State Management
+----------------------------------
+
+import React, { useState, useEffect, useRef } from 'react';
+import { 
+    View, 
+    Text, 
+    TextInput, 
+    FlatList, 
+    TouchableOpacity, 
+    ActivityIndicator,
+    Alert 
+} from 'react-native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import { useRoute } from '@react-navigation/native';
+
+interface ChatMessage {
+    _id: string;
+    requestId: string;
+    seller: string;
+    sender: string;
+    text?: string;
+    imageUrl?: string;
+    createdAt: string;
+    readBy?: string[];
+}
+
+const BuyerChatScreen = () => {
+    const [messages, setMessages] = useState<ChatMessage[]>([]);
+    const [messageText, setMessageText] = useState('');
+    const [loading, setLoading] = useState(true);
+    const [sending, setSending] = useState(false);
+    const [token, setToken] = useState('');
+    const [userId, setUserId] = useState('');
+    
+    const route = useRoute();
+    const { requestId, sellerId, sellerName } = route.params;
+    
+    const API_BASE = 'http://localhost:4001'; // OR use your deployed URL
+    const flatListRef = useRef(null);
+
+
+STEP 3.2: Initialize Authentication
+-------------------------------------
+
+    useEffect(() => {
+        const initAuth = async () => {
+            const storedToken = await AsyncStorage.getItem('authToken');
+            const storedUserId = await AsyncStorage.getItem('userId');
+            setToken(storedToken || '');
+            setUserId(storedUserId || '');
+        };
+        initAuth();
+    }, []);
+
+
+STEP 3.3: Fetch Messages on Load
+----------------------------------
+
+    const fetchMessages = async () => {
+        try {
+            setLoading(true);
+            const response = await fetch(
+                `${API_BASE}/api/chats/${requestId}?sellerId=${sellerId}`,
+                {
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${token}`,
+                    },
+                }
+            );
+
+            if (!response.ok) {
+                throw new Error('Failed to fetch messages');
+            }
+
+            const data = await response.json();
+            setMessages(data?.items || []);
+        } catch (error) {
+            console.error('Error fetching messages:', error);
+            Alert.alert('Error', 'Failed to load messages');
+        } finally {
+            setLoading(false);
+        }
+    };
+
+    useEffect(() => {
+        if (token && requestId) {
+            fetchMessages();
+        }
+    }, [token, requestId]);
+
+
+STEP 3.4: Send Message with Moderation Handling
+-------------------------------------------------
+
+    const handleSendMessage = async () => {
+        const text = messageText.trim();
+        if (!text || sending) return;
+
+        setSending(true);
+        try {
+            const response = await fetch(
+                `${API_BASE}/api/chats/${requestId}`,
+                {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${token}`,
+                    },
+                    body: JSON.stringify({ 
+                        text, 
+                        sellerId 
+                    }),
+                }
+            );
+
+            // IMPORTANT: Handle moderation blocking
+            if (!response.ok) {
+                const errorData = await response.json().catch(() => ({
+                    msg: 'Failed to send message'
+                }));
+                
+                // Show user-friendly moderation error
+                Alert.alert(
+                    'Message Blocked',
+                    errorData?.msg || 'Your message contains personal information. Please avoid sharing phone numbers, addresses, or contact details.',
+                    [{ text: 'OK' }]
+                );
+                setSending(false);
+                return; // Stop here, don't clear input
+            }
+
+            // Success - message sent
+            const data = await response.json();
+            const newMessage = data?.item;
+            
+            if (newMessage) {
+                setMessages(prev => [...prev, newMessage]);
+                setMessageText(''); // Clear input only on success
+                flatListRef.current?.scrollToEnd({ animated: true });
+            }
+
+        } catch (error) {
+            console.error('Error sending message:', error);
+            Alert.alert('Error', 'Failed to send message');
+        } finally {
+            setSending(false);
+        }
+    };
+
+
+STEP 3.5: Render Chat UI
+--------------------------
+
+    const renderMessage = ({ item }: { item: ChatMessage }) => {
+        const isMe = item.sender === userId;
+        
+        return (
+            <View style={{
+                alignSelf: isMe ? 'flex-end' : 'flex-start',
+                backgroundColor: isMe ? '#FFA500' : '#E5E7EB',
+                borderRadius: 12,
+                padding: 12,
+                marginVertical: 4,
+                maxWidth: '70%',
+            }}>
+                <Text style={{ 
+                    color: isMe ? 'white' : 'black',
+                    fontSize: 14 
+                }}>
+                    {item.text}
+                </Text>
+                <Text style={{ 
+                    color: isMe ? '#FFE4B3' : '#6B7280',
+                    fontSize: 10,
+                    marginTop: 4 
+                }}>
+                    {new Date(item.createdAt).toLocaleTimeString([], {
+                        hour: '2-digit',
+                        minute: '2-digit'
+                    })}
+                </Text>
+            </View>
+        );
+    };
+
+    return (
+        <View style={{ flex: 1, backgroundColor: 'white' }}>
+            {/* Header */}
+            <View style={{ 
+                padding: 16, 
+                borderBottomWidth: 1, 
+                borderBottomColor: '#E5E7EB' 
+            }}>
+                <Text style={{ fontSize: 18, fontWeight: 'bold' }}>
+                    {sellerName}
+                </Text>
+                <Text style={{ fontSize: 12, color: '#6B7280' }}>
+                    Request #{requestId.slice(-6)}
+                </Text>
+            </View>
+
+            {/* Messages List */}
+            {loading ? (
+                <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+                    <ActivityIndicator size="large" color="#FFA500" />
+                </View>
+            ) : (
+                <FlatList
+                    ref={flatListRef}
+                    data={messages}
+                    keyExtractor={(item) => item._id}
+                    renderItem={renderMessage}
+                    contentContainerStyle={{ padding: 16 }}
+                    onContentSizeChange={() => 
+                        flatListRef.current?.scrollToEnd({ animated: false })
+                    }
+                />
+            )}
+
+            {/* Input Area */}
+            <View style={{ 
+                flexDirection: 'row', 
+                padding: 12, 
+                borderTopWidth: 1, 
+                borderTopColor: '#E5E7EB',
+                alignItems: 'center'
+            }}>
+                <TextInput
+                    value={messageText}
+                    onChangeText={setMessageText}
+                    placeholder="Type a message..."
+                    style={{
+                        flex: 1,
+                        backgroundColor: '#F3F4F6',
+                        borderRadius: 24,
+                        paddingHorizontal: 16,
+                        paddingVertical: 10,
+                        marginRight: 8,
+                        fontSize: 14,
+                    }}
+                    multiline
+                    maxLength={500}
+                    editable={!sending}
+                />
+                <TouchableOpacity
+                    onPress={handleSendMessage}
+                    disabled={!messageText.trim() || sending}
+                    style={{
+                        backgroundColor: (!messageText.trim() || sending) 
+                            ? '#D1D5DB' 
+                            : '#FFA500',
+                        borderRadius: 24,
+                        width: 48,
+                        height: 48,
+                        justifyContent: 'center',
+                        alignItems: 'center',
+                    }}
+                >
+                    {sending ? (
+                        <ActivityIndicator size="small" color="white" />
+                    ) : (
+                        <Text style={{ color: 'white', fontSize: 18 }}>→</Text>
+                    )}
+                </TouchableOpacity>
+            </View>
+        </View>
+    );
+};
+
+export default BuyerChatScreen;
+
+
+================================================================================
+STEP 4: MOBILE APP INTEGRATION - SELLER SIDE
+================================================================================
+
+FILE: mobile/app/seller/messages.tsx (or similar)
+
+DIFFERENCES FROM BUYER:
+    - Don't pass sellerId in request body (backend infers from auth)
+    - Fetch threads list first
+    - Show unread counts
+    - Same moderation handling
+
+KEY CHANGES:
+
+    const handleSendMessage = async () => {
+        // ... same validation ...
+        
+        const response = await fetch(
+            `${API_BASE}/api/chats/${requestId}`,
+            {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${token}`,
+                },
+                body: JSON.stringify({ 
+                    text  // No sellerId needed for seller
+                }),
+            }
+        );
+        
+        // ... same error handling as buyer ...
+    };
+
+
+================================================================================
+STEP 5: REAL-TIME UPDATES (OPTIONAL - WEBSOCKETS)
+================================================================================
+
+For real-time message updates without refresh, integrate Socket.IO:
+
+INSTALL:
+    npm install socket.io-client
+
+IMPLEMENTATION:
+
+    import io from 'socket.io-client';
+    
+    useEffect(() => {
+        const socket = io('http://localhost:4001', {
+            transports: ['websocket', 'polling'],
+            auth: { token },
+        });
+
+        socket.on('connect', () => {
+            console.log('Socket connected');
+            socket.emit('join-request', requestId);
+        });
+
+        socket.on('chat:new', (newMsg: ChatMessage) => {
+            if (newMsg.requestId === requestId && newMsg.seller === sellerId) {
+                setMessages(prev => {
+                    const exists = prev.find(m => m._id === newMsg._id);
+                    if (exists) return prev;
+                    return [...prev, newMsg];
+                });
+            }
+        });
+
+        return () => {
+            socket.emit('leave-request', requestId);
+            socket.disconnect();
+        };
+    }, [requestId, token]);
+
+
+================================================================================
+STEP 6: ERROR HANDLING & USER FEEDBACK
+================================================================================
+
+MODERATION ERROR TYPES & MESSAGES:
+
+    const getModerationMessage = (reason: string): string => {
+        const messages = {
+            'phone_number': 'Phone numbers are not allowed in chat. Please use the built-in contact features.',
+            'email_address': 'Email addresses are not allowed. Please communicate through the app.',
+            'address_detected': 'Physical addresses cannot be shared here. Arrange meetings safely through proper channels.',
+            'roman_urdu_contact': 'Contact information sharing is not allowed. Keep conversations within the app.',
+            'name_sharing_detected': 'Please avoid sharing personal names for privacy and security.',
+        };
+        
+        return messages[reason] || 
+               'Your message contains personal information. Please revise and try again.';
+    };
+
+    // In handleSendMessage error handling:
+    if (!response.ok) {
+        const errorData = await response.json().catch(() => ({}));
+        
+        Alert.alert(
+            '⚠️ Message Not Sent',
+            getModerationMessage(errorData?.reason),
+            [
+                { text: 'Edit Message', style: 'cancel' },
+                { 
+                    text: 'Learn More', 
+                    onPress: () => {
+                        // Navigate to help screen or show info
+                    }
+                }
+            ]
+        );
+        setSending(false);
+        return;
+    }
+
+
+================================================================================
+STEP 7: TESTING ON MOBILE
+================================================================================
+
+TEST CASES:
+
+1. ALLOWED MESSAGES:
+    ✓ "What's the price?"
+    ✓ "Is this part still available?"
+    ✓ "I can offer 5000 rupees"
+    ✓ "When can you deliver?"
+
+2. BLOCKED MESSAGES:
+    ✗ "Call me at 03001234567"
+    ✗ "My email is test@gmail.com"
+    ✗ "Come to my house in Gulshan"
+    ✗ "WhatsApp me please"
+    ✗ "Bilal ganj ma enter hotay hi right side pr murna"
+
+TEST FLOW:
+    1. Login as buyer
+    2. Navigate to chat screen
+    3. Try sending allowed message → Should work
+    4. Try sending blocked message → Should show alert
+    5. Message input should NOT clear when blocked
+    6. User can edit and resend
+
+
+================================================================================
+STEP 8: ENVIRONMENT CONFIGURATION
+================================================================================
+
+FILE: mobile/.env (or app.config.js)
+
+    EXPO_PUBLIC_API_URL=http://localhost:4001
+    # OR for production:
+    EXPO_PUBLIC_API_URL=https://your-backend-api.com
+
+USAGE IN CODE:
+
+    import Constants from 'expo-constants';
+    
+    const API_BASE = Constants.expoConfig?.extra?.apiUrl || 
+                     process.env.EXPO_PUBLIC_API_URL ||
+                     'http://localhost:4001';
+
+
+================================================================================
+STEP 9: PRODUCTION DEPLOYMENT CHECKLIST
+================================================================================
+
+BACKEND:
+    [ ] Moderation service running on production server
+    [ ] Backend pointing to correct moderation URL
+    [ ] Environment variable: MODERATION_SERVICE_URL set
+    [ ] CORS configured for mobile app domains
+    [ ] Rate limiting enabled
+    [ ] Logging configured
+
+MOBILE:
+    [ ] API_BASE pointing to production backend
+    [ ] Authentication tokens securely stored
+    [ ] Error handling for network issues
+    [ ] Offline message queue (optional)
+    [ ] Push notifications for new messages (optional)
+
+
+================================================================================
+STEP 10: MONITORING & ANALYTICS
+================================================================================
+
+TRACK THESE METRICS:
+
+    - Messages sent: total count
+    - Messages blocked: count by reason
+    - False positives reported by users
+    - Average message send latency
+    - User complaints about blocking
+
+IMPLEMENT LOGGING:
+
+    const logModerationBlock = async (reason: string) => {
+        // Send to analytics service
+        await fetch(`${API_BASE}/api/analytics/moderation-block`, {
+            method: 'POST',
+            headers: { 'Authorization': `Bearer ${token}` },
+            body: JSON.stringify({ 
+                reason, 
+                timestamp: new Date().toISOString() 
+            }),
+        });
+    };
+
+
+================================================================================
+STEP 11: USER EDUCATION
+================================================================================
+
+ADD IN-APP GUIDANCE:
+
+1. First time chat screen:
+    - Show tooltip: "Keep conversations safe and in-app"
+    - Link to community guidelines
+
+2. When blocked:
+    - Show constructive message
+    - Suggest alternative phrasing
+    - Link to "Why am I seeing this?" help article
+
+3. Settings screen:
+    - "Privacy & Safety" section
+    - Explain moderation purpose
+    - Report false positives option
+
+
+================================================================================
+TROUBLESHOOTING COMMON ISSUES
+================================================================================
+
+ISSUE 1: "Failed to send message" but no moderation error
+SOLUTION: Check backend logs, verify moderation service is running
+
+ISSUE 2: Messages blocked that shouldn't be
+SOLUTION: Check backend/moderation/moderation_engine.py patterns
+          Add test case to test_moderation.py
+          Update patterns if needed
+
+ISSUE 3: Moderation too slow
+SOLUTION: Check moderation service health endpoint
+          Consider caching for repeated phrases
+          Monitor service logs for errors
+
+ISSUE 4: Network timeout
+SOLUTION: Increase fetch timeout in mobile app
+          Add retry logic with exponential backoff
+
+ISSUE 5: Can't connect to backend from mobile
+SOLUTION: Use correct IP (not localhost on real device)
+          For Expo: Use your computer's local IP (192.168.x.x)
+          Or use ngrok/tunneling for testing
+
+
+================================================================================
+NEXT STEPS: ADVANCED FEATURES
+================================================================================
+
+1. OFFLINE SUPPORT:
+    - Queue messages when offline
+    - Sync when connection restored
+
+2. MESSAGE REACTIONS:
+    - Like/emoji reactions
+    - No need for moderation (predefined options)
+
+3. IMAGE SHARING:
+    - Upload to cloud storage
+    - OCR moderation for text in images (future)
+
+4. VOICE MESSAGES:
+    - Transcribe audio
+    - Apply moderation to transcript
+
+5. ADMIN OVERRIDE:
+    - Allow admins to review blocked messages
+    - Whitelist specific users/phrases
+
+
+================================================================================
+SUMMARY CHECKLIST
+================================================================================
+
+[ ] Backend API endpoints verified (Step 2)
+[ ] Mobile chat UI created (Step 3)
+[ ] Send message with moderation integrated (Step 3.4)
+[ ] Error handling for blocked messages (Step 6)
+[ ] User-friendly error messages (Step 6)
+[ ] Tested with allowed/blocked messages (Step 7)
+[ ] Environment variables configured (Step 8)
+[ ] Real-time updates implemented (Step 5 - optional)
+[ ] Production deployment configured (Step 9)
+[ ] Analytics/logging added (Step 10 - optional)
+
+
+================================================================================
+SUPPORT & DOCUMENTATION
+================================================================================
+
+RELATED FILES:
+    - backend/src/controllers/chatController.ts (API logic)
+    - backend/moderation/moderation_engine.py (Patterns)
+    - backend/moderation/MODERATION_METHODOLOGY.txt (Theory)
+    - web/app/components/chat/buyer-chat.tsx (Web reference)
+
+CONTACT:
+    - Check backend logs: backend/logs/
+    - Check moderation logs: console output
+    - Report issues: GitHub issues or team chat
+
+
+================================================================================
+END OF MOBILE INTEGRATION GUIDE
+================================================================================

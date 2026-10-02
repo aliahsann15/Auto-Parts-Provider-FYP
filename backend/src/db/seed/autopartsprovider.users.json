@@ -1,0 +1,542 @@
+[{
+  "_id": {
+    "$oid": "692f01a3f7db4119d28cdee9"
+  },
+  "name": "Bilal Zahid",
+  "email": "info@hullmosque.com",
+  "password": "$2b$10$GNFGIQARzb9ual9QlZwJ8.I.W1DgX/gKrrz26g/cag5lliUrf9Itq",
+  "role": "Buyer",
+  "isEmailVerified": false,
+  "emailVerificationCode": "477975",
+  "cnicImages": [],
+  "interests": [
+    "BMW"
+  ],
+  "createdAt": {
+    "$date": "2025-12-02T15:11:31.344Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T15:11:31.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6939e3cd4df40cdcae06d034"
+  },
+  "name": "Seed Seller",
+  "email": "seed-seller@example.com",
+  "phoneNumber": "03001234567",
+  "password": "$2b$10$57s5HLNSMc0G6VNqTIB0Pu5iP5IpObDyVSO9U2wDFcwT64VOCgamq",
+  "role": "Seller",
+  "isEmailVerified": true,
+  "cnic": "35201-1234567-1",
+  "businessName": "Demo Auto Parts",
+  "businessType": "Retail",
+  "licenseNumber": "LIC-12345",
+  "bankAccountNumber": "PK00SEEDBANK123456789",
+  "accountTitle": "Seed Seller",
+  "branchCode": "0001",
+  "cnicImages": [
+    "seed-cnic-front.png",
+    "seed-cnic-back.png"
+  ],
+  "storeName": "Seed Store",
+  "storeBio": "Demo store for seeded orders",
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [],
+  "interests": [],
+  "addresses": [],
+  "cards": [],
+  "createdAt": {
+    "$date": "2025-12-10T21:19:09.919Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-15T00:08:07.001Z"
+  },
+  "__v": 0,
+  "lastLoginAt": {
+    "$date": "2025-12-15T00:08:07.001Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6939e3cd4df40cdcae06d037"
+  },
+  "name": "Seed Buyer",
+  "email": "seed-buyer@example.com",
+  "phoneNumber": "03007654321",
+  "password": "$2b$10$OJt.2XOB/3AZ1dQMxES9SORVgkySCYOUVUngAqbU5v9BM4tVUqNnO",
+  "role": "Buyer",
+  "isEmailVerified": true,
+  "addresses": [
+    {
+      "country": "Pakistan",
+      "city": "Lahore",
+      "postalCode": "54000",
+      "fullAddress": "123 Seed Street",
+      "street": "Seed Street"
+    }
+  ],
+  "cnicImages": [],
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [],
+  "interests": [],
+  "cards": [],
+  "createdAt": {
+    "$date": "2025-12-10T21:19:09.965Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T03:14:44.522Z"
+  },
+  "__v": 0,
+  "lastLoginAt": {
+    "$date": "2025-12-14T03:14:44.522Z"
+  },
+  "profileImage": "http://10.125.49.114:4001/images/uploads/1765493695098-39575E78-6C5C-47EC-8F8D-71887D5C0729.jpg"
+},
+{
+  "_id": {
+    "$oid": "693c21ed7e1eb310d1b41b45"
+  },
+  "name": "Ali Hamza",
+  "email": "alihamzabhatti880@gmail.com",
+  "password": "$2b$10$1xaESj.UVVTzCtx0rgD4Hep6kdVFei9e7BjLQLyPZhH5VM5YlLVBS",
+  "role": "Seller",
+  "isEmailVerified": true,
+  "emailVerificationCode": "",
+  "cnic": "21212-1515555-8",
+  "businessName": "Ali Autos",
+  "businessType": "Wholesale",
+  "licenseNumber": "hehej",
+  "cnicImages": [
+    "file:///var/mobile/Containers/Data/Application/5CE01B21-7577-4135-85CA-51C415394B40/Library/Caches/ExponentExperienceData/@ahmedafz1437/autopartsproviders/ImagePicker/166ACC4E-AD29-46A1-A5F5-4B5334C81E68.jpg",
+    "file:///var/mobile/Containers/Data/Application/5CE01B21-7577-4135-85CA-51C415394B40/Library/Caches/ExponentExperienceData/@ahmedafz1437/autopartsproviders/ImagePicker/426479B5-EEE6-4CF7-B609-A133CE09A07A.jpg"
+  ],
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [],
+  "interests": [],
+  "addresses": [],
+  "cards": [],
+  "createdAt": {
+    "$date": "2025-12-12T14:08:45.401Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T23:57:56.446Z"
+  },
+  "__v": 0,
+  "lastLoginAt": {
+    "$date": "2025-12-14T23:57:56.446Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693e1652254ae3ec92fadc7d"
+  },
+  "name": "snsnsb",
+  "email": "snsnsb@gmail.com",
+  "password": "$2b$10$ATal.vcHraK5zGgb3n8UceFN1tBwOMV.Nn2JMCwsr8/rptM.N2s6y",
+  "role": "Buyer",
+  "isEmailVerified": false,
+  "emailVerificationCode": "634622",
+  "cnicImages": [],
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [],
+  "interests": [],
+  "addresses": [],
+  "bankAccounts": [],
+  "cards": [],
+  "createdAt": {
+    "$date": "2025-12-14T01:43:46.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T01:43:46.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693eb29f71c930b54aaec651"
+  },
+  "name": "sjdhsbs",
+  "email": "sjdhsbs@gmail.com",
+  "password": "$2b$10$pwMbt8w8QO3taJ7Ef1dET.KsONKneKtCP3UbX03ad1cVFD6ZZ.Uhe",
+  "role": "Buyer",
+  "isEmailVerified": false,
+  "emailVerificationCode": "854135",
+  "cnicImages": [],
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [],
+  "interests": [],
+  "addresses": [],
+  "bankAccounts": [],
+  "cards": [],
+  "createdAt": {
+    "$date": "2025-12-14T12:50:39.366Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T17:50:04.047Z"
+  },
+  "__v": 0,
+  "dateOfBirth": null,
+  "profileImage": "http://10.125.49.114:4001/images/uploads/1765734604014-240FFF44-267A-4E46-86C2-630E233B0480.png"
+},
+{
+  "_id": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "name": "Ahmed Afzal",
+  "email": "ahmedafz1437@gmail.com",
+  "phoneNumber": "03039245137",
+  "password": "$2b$10$fRKoXhZF1v49RAGtQTEfTuG3HRtPIYYxGUkhhZzelA07UAbDBjkCC",
+  "role": "Seller",
+  "isEmailVerified": true,
+  "emailVerificationCode": "",
+  "cnic": "33100-6132333-1",
+  "businessName": "Ahmed Auto Parts",
+  "businessType": "Wholesale",
+  "licenseNumber": "3310061",
+  "cnicImages": [
+    "file:///var/mobile/Containers/Data/Application/FCFD3E81-54BA-4E2C-9FF4-3525E6E3FF13/Library/Caches/ImagePicker/D70FD66B-C622-4563-9B51-6DDACAEC12B3.jpg",
+    "file:///var/mobile/Containers/Data/Application/FCFD3E81-54BA-4E2C-9FF4-3525E6E3FF13/Library/Caches/ImagePicker/5F4AC61B-104F-4006-9D1A-FEC9E0A102E0.jpg"
+  ],
+  "sellerMakes": [
+    "Audi",
+    "Honda",
+    "Toyota",
+    "BMW"
+  ],
+  "sellerCategories": [
+    "Suspension",
+    "Pumps",
+    "Radiators",
+    "Filters",
+    "Engine"
+  ],
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [],
+  "interests": [],
+  "addresses": [],
+  "bankAccounts": [],
+  "cards": [],
+  "createdAt": {
+    "$date": "2025-12-15T08:24:44.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-16T08:03:34.653Z"
+  },
+  "__v": 0,
+  "lastLoginAt": {
+    "$date": "2025-12-16T08:03:34.653Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "name": "M Shehrooz",
+  "email": "sherryrana452@gmail.com",
+  "phoneNumber": "03135685452",
+  "password": "$2b$10$QEdG7PdezApVlWjx2r9wEOioj5Um4EZqIlNROQKsAR87VS8ZjNOL.",
+  "role": "Seller",
+  "isEmailVerified": true,
+  "emailVerificationCode": "",
+  "cnic": "33102-6132334-2",
+  "businessName": "Shehrooz Auto Parts",
+  "businessType": "Wholesale",
+  "licenseNumber": "3310261",
+  "cnicImages": [
+    "file:///var/mobile/Containers/Data/Application/FCFD3E81-54BA-4E2C-9FF4-3525E6E3FF13/Library/Caches/ImagePicker/BFDAB9C9-8850-4D08-9F88-BD1754E8AD92.jpg",
+    "file:///var/mobile/Containers/Data/Application/FCFD3E81-54BA-4E2C-9FF4-3525E6E3FF13/Library/Caches/ImagePicker/9FCDA1A9-9694-47C0-AF08-7241A5B211C4.jpg"
+  ],
+  "sellerMakes": [
+    "Mercedes-Benz",
+    "Audi",
+    "Nissan",
+    "Ford",
+    "BMW"
+  ],
+  "sellerCategories": [
+    "Engine",
+    "Filters",
+    "Radiators",
+    "Brakes",
+    "Pumps",
+    "Ignition"
+  ],
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [],
+  "interests": [],
+  "addresses": [],
+  "bankAccounts": [],
+  "cards": [],
+  "createdAt": {
+    "$date": "2025-12-15T09:08:43.015Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-16T00:29:14.090Z"
+  },
+  "__v": 0,
+  "lastLoginAt": {
+    "$date": "2025-12-16T00:29:14.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693fd25e34df913e4cf74759"
+  },
+  "name": "Ali Ahsan",
+  "email": "aliahsann15@gmail.com",
+  "password": "$2b$10$k/xJa3U/NHV4xVkbP8doG.eswcpZss.Cg9Rzb3d5KWtNnyYLb5NSq",
+  "role": "Buyer",
+  "isEmailVerified": true,
+  "emailVerificationCode": "",
+  "cnicImages": [],
+  "sellerMakes": [],
+  "sellerCategories": [],
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [],
+  "interests": [
+    "Honda",
+    "Toyota",
+    "Audi",
+    "Ford",
+    "Nissan",
+    "Mercedes"
+  ],
+  "addresses": [],
+  "bankAccounts": [],
+  "cards": [],
+  "createdAt": {
+    "$date": "2025-12-15T09:18:22.740Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-16T08:04:56.045Z"
+  },
+  "__v": 0,
+  "nickname": "",
+  "phoneNumber": "03132979209",
+  "profileImage": "http://10.125.49.114:4001/images/uploads/1765790406832-E49ACA22-1B45-407D-9046-5DB8EC64B1C0.jpg",
+  "lastLoginAt": {
+    "$date": "2025-12-16T08:04:56.045Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69409a038c1e3521381ff244"
+  },
+  "name": "Bilal Zahid",
+  "email": "bilalzhd0@gmail.com",
+  "role": "Buyer",
+  "isEmailVerified": true,
+  "cnicImages": [],
+  "sellerMakes": [],
+  "sellerCategories": [],
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [],
+  "interests": [],
+  "googleId": "117332386989288581086",
+  "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocKjDezVdKAlZWqw6RCCKJTPupTZyYa8brd5dpbBNrE4p68W52bu2g=s96-c",
+  "addresses": [
+    {
+      "province": "Punjab",
+      "city": "Faisalabad",
+      "postalCode": "38000",
+      "fullAddress": "Karim Town",
+      "street": "Karim Town",
+      "isDefault": true
+    }
+  ],
+  "bankAccounts": [],
+  "cards": [],
+  "createdAt": {
+    "$date": "2025-12-15T23:30:11.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-16T07:55:33.700Z"
+  },
+  "__v": 1,
+  "stripeCustomerId": "cus_Tbzk5GOzrIg2uS",
+  "password": "$2b$10$u5D/lvZipI7KDaFdbuuUfOoW8FZZKXkG9kFVhoVpan3NZGyKFKP9u",
+  "lastLoginAt": {
+    "$date": "2025-12-16T07:55:33.700Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6940bbf41571e53853e188bd"
+  },
+  "name": "ahsbd",
+  "email": "bilalzhd01@gmail.com",
+  "phoneNumber": "54545484848",
+  "password": "$2b$10$y4SW7/aWNhIpJ66Ko6/Ny.vyrYKj/fyl8hNNs1Jw.fP7RD.Zx/R6G",
+  "role": "Seller",
+  "isEmailVerified": true,
+  "emailVerificationCode": "",
+  "cnic": "45545-4545455-5",
+  "businessName": "mnm",
+  "businessType": "Retail",
+  "licenseNumber": "8184884",
+  "cnicImages": [
+    "file:///var/mobile/Containers/Data/Application/FCFD3E81-54BA-4E2C-9FF4-3525E6E3FF13/Library/Caches/ImagePicker/FFE11DFB-6024-47FA-BF98-00A40096D1B7.jpg",
+    "file:///var/mobile/Containers/Data/Application/FCFD3E81-54BA-4E2C-9FF4-3525E6E3FF13/Library/Caches/ImagePicker/42B9CCE3-1735-4C24-8F4E-B39EA31F59D2.jpg"
+  ],
+  "sellerMakes": [
+    "Changan"
+  ],
+  "sellerCategories": [
+    "69408c76ff6d28a976b0ebde",
+    "69408c76ff6d28a976b0ebd2",
+    "69408c76ff6d28a976b0ebd8",
+    "69408c76ff6d28a976b0ebe2",
+    "69408c76ff6d28a976b0ebd6",
+    "69408c76ff6d28a976b0ebda"
+  ],
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [],
+  "interests": [],
+  "addresses": [],
+  "bankAccounts": [],
+  "cards": [],
+  "createdAt": {
+    "$date": "2025-12-16T01:55:00.087Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-16T01:57:57.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6940f60932ebf1afaab5de31"
+  },
+  "name": "Bilal Zahid",
+  "email": "info.edvardson@gmail.com",
+  "password": "$2b$10$iHI002loy5.5/LNz2ciYyOYL4h95vjyRoGLV910XzzpbWRTjJ40rq",
+  "role": "Seller",
+  "isEmailVerified": false,
+  "emailVerificationCode": "703477",
+  "cnic": "33102-8006311-1",
+  "businessName": "Digenics",
+  "businessType": "Digenics",
+  "licenseNumber": "123123sdasdsa",
+  "cnicImages": [
+    "cart-onboarding.png",
+    "store-onboarding.png"
+  ],
+  "sellerMakes": [],
+  "sellerCategories": [],
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [],
+  "interests": [],
+  "addresses": [],
+  "bankAccounts": [],
+  "cards": [],
+  "createdAt": {
+    "$date": "2025-12-16T06:02:49.569Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-16T06:02:49.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6940f7c332ebf1afaab5e2a2"
+  },
+  "name": "Ajmal",
+  "email": "hoosab.se@gmail.com",
+  "password": "$2b$10$nmM2mW7RMaHb/fEpLVsuMuicCZYWcyygdEYnaBhUhw/yqkM6TJCxS",
+  "role": "StoreManager",
+  "isEmailVerified": false,
+  "assignedSeller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "cnicImages": [],
+  "sellerMakes": [],
+  "sellerCategories": [],
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [],
+  "interests": [],
+  "addresses": [],
+  "bankAccounts": [],
+  "cards": [],
+  "createdAt": {
+    "$date": "2025-12-16T06:10:11.178Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-16T07:03:14.353Z"
+  },
+  "__v": 0,
+  "lastLoginAt": {
+    "$date": "2025-12-16T07:03:14.353Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6941078f9d24edd82413d264"
+  },
+  "name": "Ahmef",
+  "email": "ahmedafz37737@gmail.com",
+  "password": "$2b$10$NsV4d2/iZyaiCdJgwNHBse8hhoiYele.5I0.1CZgA/pEAjmZTfNUS",
+  "role": "StoreManager",
+  "isEmailVerified": false,
+  "assignedSeller": {
+    "$oid": "693ad29abb66a5227842258a"
+  },
+  "cnicImages": [],
+  "sellerMakes": [],
+  "sellerCategories": [],
+  "storeBanners": [],
+  "storeSalesBanners": [],
+  "featuredProductIds": [],
+  "saleProductIds": [],
+  "sectionsOrder": [],
+  "interests": [],
+  "addresses": [],
+  "bankAccounts": [],
+  "cards": [],
+  "createdAt": {
+    "$date": "2025-12-16T07:17:35.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-16T07:17:35.772Z"
+  },
+  "__v": 0
+}]

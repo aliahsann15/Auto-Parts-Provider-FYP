@@ -1,0 +1,13 @@
+node_modules
+.npm
+.env
+.env.local
+.env.prod
+.DS_Store
+src/.DS_Store
+uploads/*
+
+# Ignore python cache files
+__pycache__/
+__pycache__/*
+.venv

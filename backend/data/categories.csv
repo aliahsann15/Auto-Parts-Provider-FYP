@@ -1,0 +1,19 @@
+id,name,onPress
+0,All,
+1,Brakes,categoryBrakes
+2,Suspension,categorySuspension
+3,Intake,categoryIntake
+4,Exhaust,categoryExhaust
+5,Turbo & Intercooling,categoryTurboIntercooling
+6,ECU Tuning & Electronics,categoryECUTuningElectronics
+7,Fuel System,categoryFuelSystem
+8,Cooling,categoryCooling
+9,Engine Internals,categoryEngineInternals
+10,Clutch & Transmission,categoryClutchTransmission
+11,Drivetrain & Differential,categoryDrivetrainDifferential
+12,Wheels & Tires,categoryWheelsTires
+13,Body Kits & Aero,categoryBodyKitsAero
+14,Lighting,categoryLighting
+15,Interior & Safety,categoryInteriorSafety
+16,Sensors & Wiring,categorySensorsWiring
+17,Rare / OEM Discontinued,categoryRareOEMDiscontinued

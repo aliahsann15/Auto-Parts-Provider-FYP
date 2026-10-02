@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Premium Ceramic Brake Pad Set",
+    "description": "High-performance ceramic brake pads for smooth, quiet stopping power and minimal dust.",
+    "price": 3200,
+    "salePrice": 2899,
+    "categories": [
+      { "$oid": "682380ae6520d0190377e0a6" },
+      { "$oid": "682380ae6520d0190377e0a9" },
+      { "$oid": "682380ae6520d0190377e0a8" }
+    ],
+    "brand": "Bosch",
+    "make": "Honda",
+    "carModel": "Civic",
+    "variant": "EX-L",
+    "sku": "BP-006",
+    "stock": 200,
+    "images": [
+      "/images/air-filter.jpg",
+      "/images/air-pump.jpg"
+    ],
+    "specifications": {
+      "material": "Ceramic",
+      "warranty": "12 months"
+    },
+    "seller": { "$oid": "681e42ad9cdefe7fcd0ae948" },
+    "status": "active"
+  },
+  {
+    "name": "OEM Replacement Oil Filter",
+    "description": "Durable spin-on oil filter with high-efficiency media for superior engine protection.",
+    "price": 1350,
+    "categories": [
+      { "$oid": "682380ae6520d0190377e0a7" }
+    ],
+    "brand": "Mann-Filter",
+    "make": "Toyota",
+    "carModel": "Corolla",
+    "variant": "LE",
+    "sku": "OF-007",
+    "stock": 450,
+    "images": [
+      "/images/turtle-wax.webp"
+    ],
+    "specifications": {
+      "threadSize": "3/4-16 UNF",
+      "filtrationRating": "20 microns"
+    },
+    "seller": { "$oid": "681e42ad9cdefe7fcd0ae948" },
+    "status": "active"
+  },
+  {
+    "name": "Activated Carbon Cabin Air Filter",
+    "description": "Removes pollen, dust and odors for cleaner, fresher cabin air.",
+    "price": 1950,
+    "salePrice": 1799,
+    "categories": [
+      { "$oid": "682380ae6520d0190377e0a7" }
+    ],
+    "brand": "FRAM",
+    "make": "Suzuki",
+    "carModel": "Swift",
+    "variant": "GLX",
+    "sku": "CAF-008",
+    "stock": 300,
+    "images": [
+      "/images/toyota-corolla-cover.webp"
+    ],
+    "specifications": {
+      "filterType": "Activated Carbon",
+      "serviceInterval": "12,000 miles"
+    },
+    "seller": { "$oid": "681e42ad9cdefe7fcd0ae948" },
+    "status": "active"
+  },
+  {
+    "name": "LED Headlight Assembly",
+    "description": "Plug-and-play LED headlight with adjustable beam and built-in heat sink.",
+    "price": 8200,
+    "salePrice": 7599,
+    "categories": [
+      { "$oid": "682380ae6520d0190377e0a8" }
+    ],
+    "brand": "Philips",
+    "make": "BMW",
+    "carModel": "3 Series",
+    "variant": "E90",
+    "sku": "HL-009",
+    "stock": 120,
+    "images": [
+      "/images/mat-cover.webp"
+    ],
+    "specifications": {
+      "lumens": "6500 lm",
+      "colorTemperature": "6000K"
+    },
+    "seller": { "$oid": "681e42ad9cdefe7fcd0ae948" },
+    "status": "active"
+  },
+  {
+    "name": "NGK Iridium Spark Plug Set (4)",
+    "description": "Ultra-durable iridium spark plugs for improved ignition and fuel economy.",
+    "price": 5400,
+    "categories": [
+      { "$oid": "682380ae6520d0190377e0a9" }
+    ],
+    "brand": "NGK",
+    "make": "Ford",
+    "carModel": "Focus",
+    "variant": "Titanium",
+    "sku": "SP-010",
+    "stock": 75,
+    "images": [
+      "/images/car-polisher.webp"
+    ],
+    "specifications": {
+      "electrodeMaterial": "Iridium",
+      "gap": "0.044 inch"
+    },
+    "seller": { "$oid": "681e42ad9cdefe7fcd0ae948" },
+    "status": "draft"
+  }
+]

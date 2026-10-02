@@ -1,0 +1,17 @@
+[
+    {
+      "product": { "$oid": "6828eeea234b3b6949747d2a" },
+      "user":    { "$oid": "681e31178e7abb83b8171681" },
+      "rating":  5,
+      "comment": "Excellent fit and top-quality build—highly recommend!",
+      "createdAt": { "$date": "2025-05-18T03:00:00Z" }
+    },
+    {
+      "product": { "$oid": "6828eeea234b3b6949747d2a" },
+      "user":    { "$oid": "681e31178e7abb83b8171681" },
+      "rating":  4,
+      "comment": "Good part overall, though the instructions could be clearer.",
+      "createdAt": { "$date": "2025-05-18T03:00:00Z" }
+    }
+  ]
+  

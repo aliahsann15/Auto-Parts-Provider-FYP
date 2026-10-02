@@ -1,0 +1,82 @@
+[
+    {
+      "_id": { "$oid": "663b42a20a2893a5a0b0c1d1" },
+      "user": { "$oid": "681e42ad9cdefe7fcd0ae948" },
+      "items": [
+        {
+          "product": { "$oid": "663b42a20a2893a5a0b0c2e2" },
+          "quantity": 2,
+          "price": 500,
+          "salePrice": 450
+        },
+        {
+          "product": { "$oid": "663b42a20a2893a5a0b0c3f3" },
+          "quantity": 1,
+          "price": 1000
+        }
+      ],
+      "totalAmount": 1900,
+      "status": "processing",
+      "shippingAddress": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "country": "USA",
+        "zipCode": "91234"
+      },
+      "paymentStatus": "completed",
+      "paymentMethod": "Credit Card",
+      "trackingNumber": "TRKABC123",
+      "createdAt": { "$date": "2025-05-09T10:00:00.000Z" },
+      "updatedAt": { "$date": "2025-05-09T10:00:00.000Z" }
+    },
+    {
+      "_id": { "$oid": "663b42a20a2893a5a0b0c1d2" },
+      "user": { "$oid": "681e42ad9cdefe7fcd0ae948" },
+      "items": [
+        {
+          "product": { "$oid": "663b42a20a2893a5a0b0c404" },
+          "quantity": 3,
+          "price": 150
+        }
+      ],
+      "totalAmount": 450,
+      "status": "pending",
+      "shippingAddress": {
+        "street": "456 Oak Ave",
+        "city": "Otherville",
+        "state": "NY",
+        "country": "USA",
+        "zipCode": "10001"
+      },
+      "paymentStatus": "pending",
+      "paymentMethod": "Bank Transfer",
+      "createdAt": { "$date": "2025-05-10T11:30:00.000Z" },
+      "updatedAt": { "$date": "2025-05-10T11:30:00.000Z" }
+    },
+    {
+      "_id": { "$oid": "663b42a20a2893a5a0b0c1d3" },
+      "user": { "$oid": "681e42ad9cdefe7fcd0ae948" },
+      "items": [
+        {
+          "product": { "$oid": "663b42a20a2893a5a0b0c515" },
+          "quantity": 1,
+          "price": 2500
+        }
+      ],
+      "totalAmount": 2500,
+      "status": "shipped",
+      "shippingAddress": {
+        "street": "789 Pine Ln",
+        "city": "Anytown",
+        "state": "CA",
+        "country": "USA",
+        "zipCode": "91234"
+      },
+      "paymentStatus": "completed",
+      "paymentMethod": "PayPal",
+      "trackingNumber": "TRKXYZ987",
+      "createdAt": { "$date": "2025-05-11T08:00:00.000Z" },
+      "updatedAt": { "$date": "2025-05-11T09:00:00.000Z" }
+    }
+  ]

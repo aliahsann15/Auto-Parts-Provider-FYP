@@ -1,0 +1,658 @@
+year,make,modelName,variant
+2021,Changan,Alsvin,1.3L MT Comfort
+2022,Changan,Alsvin,1.3L MT Comfort
+2023,Changan,Alsvin,1.3L MT Comfort
+2024,Changan,Alsvin,1.3L MT Comfort
+2025,Changan,Alsvin,1.3L MT Comfort
+2021,Changan,Alsvin,1.5L DCT Comfort
+2022,Changan,Alsvin,1.5L DCT Comfort
+2023,Changan,Alsvin,1.5L DCT Comfort
+2024,Changan,Alsvin,1.5L DCT Comfort
+2025,Changan,Alsvin,1.5L DCT Comfort
+2021,Changan,Alsvin,1.5L DCT Lumiere
+2022,Changan,Alsvin,1.5L DCT Lumiere
+2023,Changan,Alsvin,1.5L DCT Lumiere
+2024,Changan,Alsvin,1.5L DCT Lumiere
+2025,Changan,Alsvin,1.5L DCT Lumiere
+2021,Changan,Alsvin,Black Edition
+2022,Changan,Alsvin,Black Edition
+2023,Changan,Alsvin,Black Edition
+2024,Changan,Alsvin,Black Edition
+2025,Changan,Alsvin,Black Edition
+2021,Haval,H6,1.5T
+2022,Haval,H6,1.5T
+2023,Haval,H6,1.5T
+2024,Haval,H6,1.5T
+2025,Haval,H6,1.5T
+2021,Haval,H6,2.0T
+2022,Haval,H6,2.0T
+2023,Haval,H6,2.0T
+2024,Haval,H6,2.0T
+2025,Haval,H6,2.0T
+2021,Haval,H6,HEV
+2022,Haval,H6,HEV
+2023,Haval,H6,HEV
+2024,Haval,H6,HEV
+2025,Haval,H6,HEV
+2021,Haval,H6,PHEV
+2022,Haval,H6,PHEV
+2023,Haval,H6,PHEV
+2024,Haval,H6,PHEV
+2025,Haval,H6,PHEV
+2021,Honda,City,1.2L CVT
+2022,Honda,City,1.2L CVT
+2023,Honda,City,1.2L CVT
+2024,Honda,City,1.2L CVT
+2025,Honda,City,1.2L CVT
+2021,Honda,City,1.2L M/T
+2022,Honda,City,1.2L M/T
+2023,Honda,City,1.2L M/T
+2024,Honda,City,1.2L M/T
+2025,Honda,City,1.2L M/T
+2021,Honda,City,1.5L ASPIRE CVT
+2022,Honda,City,1.5L ASPIRE CVT
+2023,Honda,City,1.5L ASPIRE CVT
+2024,Honda,City,1.5L ASPIRE CVT
+2025,Honda,City,1.5L ASPIRE CVT
+2021,Honda,City,1.5L ASPIRE M/T
+2022,Honda,City,1.5L ASPIRE M/T
+2023,Honda,City,1.5L ASPIRE M/T
+2024,Honda,City,1.5L ASPIRE M/T
+2025,Honda,City,1.5L ASPIRE M/T
+2021,Honda,City,1.5L ASPIRE S CVT
+2022,Honda,City,1.5L ASPIRE S CVT
+2023,Honda,City,1.5L ASPIRE S CVT
+2024,Honda,City,1.5L ASPIRE S CVT
+2025,Honda,City,1.5L ASPIRE S CVT
+2021,Honda,City,1.5L CVT
+2022,Honda,City,1.5L CVT
+2023,Honda,City,1.5L CVT
+2024,Honda,City,1.5L CVT
+2025,Honda,City,1.5L CVT
+2022,Honda,Civic,11th Gen - Oriel 1.5 Turbo
+2023,Honda,Civic,11th Gen - Oriel 1.5 Turbo
+2024,Honda,Civic,11th Gen - Oriel 1.5 Turbo
+2025,Honda,Civic,11th Gen - Oriel 1.5 Turbo
+2022,Honda,Civic,11th Gen - RS 1.5 Turbo
+2023,Honda,Civic,11th Gen - RS 1.5 Turbo
+2024,Honda,Civic,11th Gen - RS 1.5 Turbo
+2025,Honda,Civic,11th Gen - RS 1.5 Turbo
+2022,Honda,Civic,11th Gen - Standard 1.5 Turbo
+2023,Honda,Civic,11th Gen - Standard 1.5 Turbo
+2024,Honda,Civic,11th Gen - Standard 1.5 Turbo
+2025,Honda,Civic,11th Gen - Standard 1.5 Turbo
+2016,Honda,Civic,Civic X (10th Gen) - 1.5 RS Turbo
+2017,Honda,Civic,Civic X (10th Gen) - 1.5 RS Turbo
+2018,Honda,Civic,Civic X (10th Gen) - 1.5 RS Turbo
+2019,Honda,Civic,Civic X (10th Gen) - 1.5 RS Turbo
+2020,Honda,Civic,Civic X (10th Gen) - 1.5 RS Turbo
+2021,Honda,Civic,Civic X (10th Gen) - 1.5 RS Turbo
+2022,Honda,Civic,Civic X (10th Gen) - 1.5 RS Turbo
+2016,Honda,Civic,Civic X (10th Gen) - 1.8 i-VTEC CVT
+2017,Honda,Civic,Civic X (10th Gen) - 1.8 i-VTEC CVT
+2018,Honda,Civic,Civic X (10th Gen) - 1.8 i-VTEC CVT
+2019,Honda,Civic,Civic X (10th Gen) - 1.8 i-VTEC CVT
+2020,Honda,Civic,Civic X (10th Gen) - 1.8 i-VTEC CVT
+2021,Honda,Civic,Civic X (10th Gen) - 1.8 i-VTEC CVT
+2022,Honda,Civic,Civic X (10th Gen) - 1.8 i-VTEC CVT
+2016,Honda,Civic,Civic X (10th Gen) - Oriel 1.8 i-VTEC CVT
+2017,Honda,Civic,Civic X (10th Gen) - Oriel 1.8 i-VTEC CVT
+2018,Honda,Civic,Civic X (10th Gen) - Oriel 1.8 i-VTEC CVT
+2019,Honda,Civic,Civic X (10th Gen) - Oriel 1.8 i-VTEC CVT
+2020,Honda,Civic,Civic X (10th Gen) - Oriel 1.8 i-VTEC CVT
+2021,Honda,Civic,Civic X (10th Gen) - Oriel 1.8 i-VTEC CVT
+2022,Honda,Civic,Civic X (10th Gen) - Oriel 1.8 i-VTEC CVT
+2016,Honda,Civic,Civic X (10th Gen) - Turbo 1.5 VTEC CVT
+2017,Honda,Civic,Civic X (10th Gen) - Turbo 1.5 VTEC CVT
+2018,Honda,Civic,Civic X (10th Gen) - Turbo 1.5 VTEC CVT
+2019,Honda,Civic,Civic X (10th Gen) - Turbo 1.5 VTEC CVT
+2020,Honda,Civic,Civic X (10th Gen) - Turbo 1.5 VTEC CVT
+2021,Honda,Civic,Civic X (10th Gen) - Turbo 1.5 VTEC CVT
+2022,Honda,Civic,Civic X (10th Gen) - Turbo 1.5 VTEC CVT
+2012,Honda,Civic,Rebirth - VTi Oriel Prosmatec
+2013,Honda,Civic,Rebirth - VTi Oriel Prosmatec
+2014,Honda,Civic,Rebirth - VTi Oriel Prosmatec
+2015,Honda,Civic,Rebirth - VTi Oriel Prosmatec
+2016,Honda,Civic,Rebirth - VTi Oriel Prosmatec
+2012,Honda,Civic,Rebirth - VTi Oriel Prosmatec UG
+2013,Honda,Civic,Rebirth - VTi Oriel Prosmatec UG
+2014,Honda,Civic,Rebirth - VTi Oriel Prosmatec UG
+2015,Honda,Civic,Rebirth - VTi Oriel Prosmatec UG
+2016,Honda,Civic,Rebirth - VTi Oriel Prosmatec UG
+2012,Honda,Civic,Rebirth - i-VTEC Prosmatec
+2013,Honda,Civic,Rebirth - i-VTEC Prosmatec
+2014,Honda,Civic,Rebirth - i-VTEC Prosmatec
+2015,Honda,Civic,Rebirth - i-VTEC Prosmatec
+2016,Honda,Civic,Rebirth - i-VTEC Prosmatec
+2006,Honda,Civic,Reborn - VTi 1.8 i-VTEC
+2007,Honda,Civic,Reborn - VTi 1.8 i-VTEC
+2008,Honda,Civic,Reborn - VTi 1.8 i-VTEC
+2009,Honda,Civic,Reborn - VTi 1.8 i-VTEC
+2010,Honda,Civic,Reborn - VTi 1.8 i-VTEC
+2011,Honda,Civic,Reborn - VTi 1.8 i-VTEC
+2012,Honda,Civic,Reborn - VTi 1.8 i-VTEC
+2006,Honda,Civic,Reborn - VTi Oriel 1.8 i-VTEC
+2007,Honda,Civic,Reborn - VTi Oriel 1.8 i-VTEC
+2008,Honda,Civic,Reborn - VTi Oriel 1.8 i-VTEC
+2009,Honda,Civic,Reborn - VTi Oriel 1.8 i-VTEC
+2010,Honda,Civic,Reborn - VTi Oriel 1.8 i-VTEC
+2011,Honda,Civic,Reborn - VTi Oriel 1.8 i-VTEC
+2012,Honda,Civic,Reborn - VTi Oriel 1.8 i-VTEC
+2006,Honda,Civic,Reborn - VTi Oriel Prosmatec 1.8 i-VTEC
+2007,Honda,Civic,Reborn - VTi Oriel Prosmatec 1.8 i-VTEC
+2008,Honda,Civic,Reborn - VTi Oriel Prosmatec 1.8 i-VTEC
+2009,Honda,Civic,Reborn - VTi Oriel Prosmatec 1.8 i-VTEC
+2010,Honda,Civic,Reborn - VTi Oriel Prosmatec 1.8 i-VTEC
+2011,Honda,Civic,Reborn - VTi Oriel Prosmatec 1.8 i-VTEC
+2012,Honda,Civic,Reborn - VTi Oriel Prosmatec 1.8 i-VTEC
+2020,Hyundai,Tucson,GLS AWD
+2021,Hyundai,Tucson,GLS AWD
+2022,Hyundai,Tucson,GLS AWD
+2023,Hyundai,Tucson,GLS AWD
+2024,Hyundai,Tucson,GLS AWD
+2025,Hyundai,Tucson,GLS AWD
+2020,Hyundai,Tucson,GLS FWD
+2021,Hyundai,Tucson,GLS FWD
+2022,Hyundai,Tucson,GLS FWD
+2023,Hyundai,Tucson,GLS FWD
+2024,Hyundai,Tucson,GLS FWD
+2025,Hyundai,Tucson,GLS FWD
+2020,Hyundai,Tucson,Hybrid Signature
+2021,Hyundai,Tucson,Hybrid Signature
+2022,Hyundai,Tucson,Hybrid Signature
+2023,Hyundai,Tucson,Hybrid Signature
+2024,Hyundai,Tucson,Hybrid Signature
+2025,Hyundai,Tucson,Hybrid Signature
+2020,Hyundai,Tucson,Hybrid Smart
+2021,Hyundai,Tucson,Hybrid Smart
+2022,Hyundai,Tucson,Hybrid Smart
+2023,Hyundai,Tucson,Hybrid Smart
+2024,Hyundai,Tucson,Hybrid Smart
+2025,Hyundai,Tucson,Hybrid Smart
+2020,Hyundai,Tucson,Ultimate AWD
+2021,Hyundai,Tucson,Ultimate AWD
+2022,Hyundai,Tucson,Ultimate AWD
+2023,Hyundai,Tucson,Ultimate AWD
+2024,Hyundai,Tucson,Ultimate AWD
+2025,Hyundai,Tucson,Ultimate AWD
+2020,Hyundai,Tucson,Ultimate FWD
+2021,Hyundai,Tucson,Ultimate FWD
+2022,Hyundai,Tucson,Ultimate FWD
+2023,Hyundai,Tucson,Ultimate FWD
+2024,Hyundai,Tucson,Ultimate FWD
+2025,Hyundai,Tucson,Ultimate FWD
+2019,Kia,Sportage,AWD
+2020,Kia,Sportage,AWD
+2021,Kia,Sportage,AWD
+2022,Kia,Sportage,AWD
+2023,Kia,Sportage,AWD
+2024,Kia,Sportage,AWD
+2025,Kia,Sportage,AWD
+2019,Kia,Sportage,Alpha
+2020,Kia,Sportage,Alpha
+2021,Kia,Sportage,Alpha
+2022,Kia,Sportage,Alpha
+2023,Kia,Sportage,Alpha
+2024,Kia,Sportage,Alpha
+2025,Kia,Sportage,Alpha
+2019,Kia,Sportage,Black Limited Edition
+2020,Kia,Sportage,Black Limited Edition
+2021,Kia,Sportage,Black Limited Edition
+2022,Kia,Sportage,Black Limited Edition
+2023,Kia,Sportage,Black Limited Edition
+2024,Kia,Sportage,Black Limited Edition
+2025,Kia,Sportage,Black Limited Edition
+2019,Kia,Sportage,Clear White Limited Edition
+2020,Kia,Sportage,Clear White Limited Edition
+2021,Kia,Sportage,Clear White Limited Edition
+2022,Kia,Sportage,Clear White Limited Edition
+2023,Kia,Sportage,Clear White Limited Edition
+2024,Kia,Sportage,Clear White Limited Edition
+2025,Kia,Sportage,Clear White Limited Edition
+2019,Kia,Sportage,FWD
+2020,Kia,Sportage,FWD
+2021,Kia,Sportage,FWD
+2022,Kia,Sportage,FWD
+2023,Kia,Sportage,FWD
+2024,Kia,Sportage,FWD
+2025,Kia,Sportage,FWD
+2019,Suzuki,Alto,VX
+2020,Suzuki,Alto,VX
+2021,Suzuki,Alto,VX
+2022,Suzuki,Alto,VX
+2023,Suzuki,Alto,VX
+2024,Suzuki,Alto,VX
+2025,Suzuki,Alto,VX
+2019,Suzuki,Alto,VXL AGS
+2020,Suzuki,Alto,VXL AGS
+2021,Suzuki,Alto,VXL AGS
+2022,Suzuki,Alto,VXL AGS
+2023,Suzuki,Alto,VXL AGS
+2024,Suzuki,Alto,VXL AGS
+2025,Suzuki,Alto,VXL AGS
+2019,Suzuki,Alto,VXL AGS Upgraded
+2020,Suzuki,Alto,VXL AGS Upgraded
+2021,Suzuki,Alto,VXL AGS Upgraded
+2022,Suzuki,Alto,VXL AGS Upgraded
+2023,Suzuki,Alto,VXL AGS Upgraded
+2024,Suzuki,Alto,VXL AGS Upgraded
+2025,Suzuki,Alto,VXL AGS Upgraded
+2019,Suzuki,Alto,VXR
+2020,Suzuki,Alto,VXR
+2021,Suzuki,Alto,VXR
+2022,Suzuki,Alto,VXR
+2023,Suzuki,Alto,VXR
+2024,Suzuki,Alto,VXR
+2025,Suzuki,Alto,VXR
+2019,Suzuki,Alto,VXR AGS
+2020,Suzuki,Alto,VXR AGS
+2021,Suzuki,Alto,VXR AGS
+2022,Suzuki,Alto,VXR AGS
+2023,Suzuki,Alto,VXR AGS
+2024,Suzuki,Alto,VXR AGS
+2025,Suzuki,Alto,VXR AGS
+2019,Suzuki,Alto,VXR AGS Upgraded
+2020,Suzuki,Alto,VXR AGS Upgraded
+2021,Suzuki,Alto,VXR AGS Upgraded
+2022,Suzuki,Alto,VXR AGS Upgraded
+2023,Suzuki,Alto,VXR AGS Upgraded
+2024,Suzuki,Alto,VXR AGS Upgraded
+2025,Suzuki,Alto,VXR AGS Upgraded
+2019,Suzuki,Alto,VXR Upgraded
+2020,Suzuki,Alto,VXR Upgraded
+2021,Suzuki,Alto,VXR Upgraded
+2022,Suzuki,Alto,VXR Upgraded
+2023,Suzuki,Alto,VXR Upgraded
+2024,Suzuki,Alto,VXR Upgraded
+2025,Suzuki,Alto,VXR Upgraded
+2017,Suzuki,Cultus,Auto Gear Shift
+2018,Suzuki,Cultus,Auto Gear Shift
+2019,Suzuki,Cultus,Auto Gear Shift
+2020,Suzuki,Cultus,Auto Gear Shift
+2021,Suzuki,Cultus,Auto Gear Shift
+2022,Suzuki,Cultus,Auto Gear Shift
+2023,Suzuki,Cultus,Auto Gear Shift
+2024,Suzuki,Cultus,Auto Gear Shift
+2025,Suzuki,Cultus,Auto Gear Shift
+2017,Suzuki,Cultus,VXL
+2018,Suzuki,Cultus,VXL
+2019,Suzuki,Cultus,VXL
+2020,Suzuki,Cultus,VXL
+2021,Suzuki,Cultus,VXL
+2022,Suzuki,Cultus,VXL
+2023,Suzuki,Cultus,VXL
+2024,Suzuki,Cultus,VXL
+2025,Suzuki,Cultus,VXL
+2017,Suzuki,Cultus,VXR
+2018,Suzuki,Cultus,VXR
+2019,Suzuki,Cultus,VXR
+2020,Suzuki,Cultus,VXR
+2021,Suzuki,Cultus,VXR
+2022,Suzuki,Cultus,VXR
+2023,Suzuki,Cultus,VXR
+2024,Suzuki,Cultus,VXR
+2025,Suzuki,Cultus,VXR
+2022,Suzuki,Swift,GL CVT
+2023,Suzuki,Swift,GL CVT
+2024,Suzuki,Swift,GL CVT
+2025,Suzuki,Swift,GL CVT
+2022,Suzuki,Swift,GL CVT Limited Edition
+2023,Suzuki,Swift,GL CVT Limited Edition
+2024,Suzuki,Swift,GL CVT Limited Edition
+2025,Suzuki,Swift,GL CVT Limited Edition
+2022,Suzuki,Swift,GL Manual
+2023,Suzuki,Swift,GL Manual
+2024,Suzuki,Swift,GL Manual
+2025,Suzuki,Swift,GL Manual
+2022,Suzuki,Swift,GLX CVT
+2023,Suzuki,Swift,GLX CVT
+2024,Suzuki,Swift,GLX CVT
+2025,Suzuki,Swift,GLX CVT
+2014,Suzuki,Wagon R,AGS
+2015,Suzuki,Wagon R,AGS
+2016,Suzuki,Wagon R,AGS
+2017,Suzuki,Wagon R,AGS
+2018,Suzuki,Wagon R,AGS
+2019,Suzuki,Wagon R,AGS
+2020,Suzuki,Wagon R,AGS
+2021,Suzuki,Wagon R,AGS
+2022,Suzuki,Wagon R,AGS
+2023,Suzuki,Wagon R,AGS
+2024,Suzuki,Wagon R,AGS
+2025,Suzuki,Wagon R,AGS
+2014,Suzuki,Wagon R,VX
+2015,Suzuki,Wagon R,VX
+2016,Suzuki,Wagon R,VX
+2017,Suzuki,Wagon R,VX
+2018,Suzuki,Wagon R,VX
+2019,Suzuki,Wagon R,VX
+2020,Suzuki,Wagon R,VX
+2021,Suzuki,Wagon R,VX
+2022,Suzuki,Wagon R,VX
+2023,Suzuki,Wagon R,VX
+2024,Suzuki,Wagon R,VX
+2025,Suzuki,Wagon R,VX
+2014,Suzuki,Wagon R,VXL
+2015,Suzuki,Wagon R,VXL
+2016,Suzuki,Wagon R,VXL
+2017,Suzuki,Wagon R,VXL
+2018,Suzuki,Wagon R,VXL
+2019,Suzuki,Wagon R,VXL
+2020,Suzuki,Wagon R,VXL
+2021,Suzuki,Wagon R,VXL
+2022,Suzuki,Wagon R,VXL
+2023,Suzuki,Wagon R,VXL
+2024,Suzuki,Wagon R,VXL
+2025,Suzuki,Wagon R,VXL
+2014,Suzuki,Wagon R,VXR
+2015,Suzuki,Wagon R,VXR
+2016,Suzuki,Wagon R,VXR
+2017,Suzuki,Wagon R,VXR
+2018,Suzuki,Wagon R,VXR
+2019,Suzuki,Wagon R,VXR
+2020,Suzuki,Wagon R,VXR
+2021,Suzuki,Wagon R,VXR
+2022,Suzuki,Wagon R,VXR
+2023,Suzuki,Wagon R,VXR
+2024,Suzuki,Wagon R,VXR
+2025,Suzuki,Wagon R,VXR
+2014,Toyota,Corolla,Altis 1.6 X CVT-i
+2015,Toyota,Corolla,Altis 1.6 X CVT-i
+2016,Toyota,Corolla,Altis 1.6 X CVT-i
+2017,Toyota,Corolla,Altis 1.6 X CVT-i
+2018,Toyota,Corolla,Altis 1.6 X CVT-i
+2019,Toyota,Corolla,Altis 1.6 X CVT-i
+2020,Toyota,Corolla,Altis 1.6 X CVT-i
+2021,Toyota,Corolla,Altis 1.6 X CVT-i
+2022,Toyota,Corolla,Altis 1.6 X CVT-i
+2023,Toyota,Corolla,Altis 1.6 X CVT-i
+2024,Toyota,Corolla,Altis 1.6 X CVT-i
+2025,Toyota,Corolla,Altis 1.6 X CVT-i
+2014,Toyota,Corolla,Altis 1.6 X CVT-i Special Edition
+2015,Toyota,Corolla,Altis 1.6 X CVT-i Special Edition
+2016,Toyota,Corolla,Altis 1.6 X CVT-i Special Edition
+2017,Toyota,Corolla,Altis 1.6 X CVT-i Special Edition
+2018,Toyota,Corolla,Altis 1.6 X CVT-i Special Edition
+2019,Toyota,Corolla,Altis 1.6 X CVT-i Special Edition
+2020,Toyota,Corolla,Altis 1.6 X CVT-i Special Edition
+2021,Toyota,Corolla,Altis 1.6 X CVT-i Special Edition
+2022,Toyota,Corolla,Altis 1.6 X CVT-i Special Edition
+2023,Toyota,Corolla,Altis 1.6 X CVT-i Special Edition
+2024,Toyota,Corolla,Altis 1.6 X CVT-i Special Edition
+2025,Toyota,Corolla,Altis 1.6 X CVT-i Special Edition
+2014,Toyota,Corolla,Altis 1.8
+2015,Toyota,Corolla,Altis 1.8
+2016,Toyota,Corolla,Altis 1.8
+2017,Toyota,Corolla,Altis 1.8
+2018,Toyota,Corolla,Altis 1.8
+2019,Toyota,Corolla,Altis 1.8
+2020,Toyota,Corolla,Altis 1.8
+2021,Toyota,Corolla,Altis 1.8
+2022,Toyota,Corolla,Altis 1.8
+2023,Toyota,Corolla,Altis 1.8
+2024,Toyota,Corolla,Altis 1.8
+2025,Toyota,Corolla,Altis 1.8
+2014,Toyota,Corolla,Altis Automatic 1.6
+2015,Toyota,Corolla,Altis Automatic 1.6
+2016,Toyota,Corolla,Altis Automatic 1.6
+2017,Toyota,Corolla,Altis Automatic 1.6
+2018,Toyota,Corolla,Altis Automatic 1.6
+2019,Toyota,Corolla,Altis Automatic 1.6
+2020,Toyota,Corolla,Altis Automatic 1.6
+2021,Toyota,Corolla,Altis Automatic 1.6
+2022,Toyota,Corolla,Altis Automatic 1.6
+2023,Toyota,Corolla,Altis Automatic 1.6
+2024,Toyota,Corolla,Altis Automatic 1.6
+2025,Toyota,Corolla,Altis Automatic 1.6
+2014,Toyota,Corolla,Altis CVT-i 1.8
+2015,Toyota,Corolla,Altis CVT-i 1.8
+2016,Toyota,Corolla,Altis CVT-i 1.8
+2017,Toyota,Corolla,Altis CVT-i 1.8
+2018,Toyota,Corolla,Altis CVT-i 1.8
+2019,Toyota,Corolla,Altis CVT-i 1.8
+2020,Toyota,Corolla,Altis CVT-i 1.8
+2021,Toyota,Corolla,Altis CVT-i 1.8
+2022,Toyota,Corolla,Altis CVT-i 1.8
+2023,Toyota,Corolla,Altis CVT-i 1.8
+2024,Toyota,Corolla,Altis CVT-i 1.8
+2025,Toyota,Corolla,Altis CVT-i 1.8
+2014,Toyota,Corolla,Altis Grande 1.8
+2015,Toyota,Corolla,Altis Grande 1.8
+2016,Toyota,Corolla,Altis Grande 1.8
+2017,Toyota,Corolla,Altis Grande 1.8
+2018,Toyota,Corolla,Altis Grande 1.8
+2019,Toyota,Corolla,Altis Grande 1.8
+2020,Toyota,Corolla,Altis Grande 1.8
+2021,Toyota,Corolla,Altis Grande 1.8
+2022,Toyota,Corolla,Altis Grande 1.8
+2023,Toyota,Corolla,Altis Grande 1.8
+2024,Toyota,Corolla,Altis Grande 1.8
+2025,Toyota,Corolla,Altis Grande 1.8
+2014,Toyota,Corolla,Altis Grande CVT-i 1.8
+2015,Toyota,Corolla,Altis Grande CVT-i 1.8
+2016,Toyota,Corolla,Altis Grande CVT-i 1.8
+2017,Toyota,Corolla,Altis Grande CVT-i 1.8
+2018,Toyota,Corolla,Altis Grande CVT-i 1.8
+2019,Toyota,Corolla,Altis Grande CVT-i 1.8
+2020,Toyota,Corolla,Altis Grande CVT-i 1.8
+2021,Toyota,Corolla,Altis Grande CVT-i 1.8
+2022,Toyota,Corolla,Altis Grande CVT-i 1.8
+2023,Toyota,Corolla,Altis Grande CVT-i 1.8
+2024,Toyota,Corolla,Altis Grande CVT-i 1.8
+2025,Toyota,Corolla,Altis Grande CVT-i 1.8
+2014,Toyota,Corolla,Altis Grande X CVT-i 1.8 Beige Interior
+2015,Toyota,Corolla,Altis Grande X CVT-i 1.8 Beige Interior
+2016,Toyota,Corolla,Altis Grande X CVT-i 1.8 Beige Interior
+2017,Toyota,Corolla,Altis Grande X CVT-i 1.8 Beige Interior
+2018,Toyota,Corolla,Altis Grande X CVT-i 1.8 Beige Interior
+2019,Toyota,Corolla,Altis Grande X CVT-i 1.8 Beige Interior
+2020,Toyota,Corolla,Altis Grande X CVT-i 1.8 Beige Interior
+2021,Toyota,Corolla,Altis Grande X CVT-i 1.8 Beige Interior
+2022,Toyota,Corolla,Altis Grande X CVT-i 1.8 Beige Interior
+2023,Toyota,Corolla,Altis Grande X CVT-i 1.8 Beige Interior
+2024,Toyota,Corolla,Altis Grande X CVT-i 1.8 Beige Interior
+2025,Toyota,Corolla,Altis Grande X CVT-i 1.8 Beige Interior
+2014,Toyota,Corolla,Altis Grande X CVT-i 1.8 Black Interior
+2015,Toyota,Corolla,Altis Grande X CVT-i 1.8 Black Interior
+2016,Toyota,Corolla,Altis Grande X CVT-i 1.8 Black Interior
+2017,Toyota,Corolla,Altis Grande X CVT-i 1.8 Black Interior
+2018,Toyota,Corolla,Altis Grande X CVT-i 1.8 Black Interior
+2019,Toyota,Corolla,Altis Grande X CVT-i 1.8 Black Interior
+2020,Toyota,Corolla,Altis Grande X CVT-i 1.8 Black Interior
+2021,Toyota,Corolla,Altis Grande X CVT-i 1.8 Black Interior
+2022,Toyota,Corolla,Altis Grande X CVT-i 1.8 Black Interior
+2023,Toyota,Corolla,Altis Grande X CVT-i 1.8 Black Interior
+2024,Toyota,Corolla,Altis Grande X CVT-i 1.8 Black Interior
+2025,Toyota,Corolla,Altis Grande X CVT-i 1.8 Black Interior
+2014,Toyota,Corolla,Altis Manual 1.6
+2015,Toyota,Corolla,Altis Manual 1.6
+2016,Toyota,Corolla,Altis Manual 1.6
+2017,Toyota,Corolla,Altis Manual 1.6
+2018,Toyota,Corolla,Altis Manual 1.6
+2019,Toyota,Corolla,Altis Manual 1.6
+2020,Toyota,Corolla,Altis Manual 1.6
+2021,Toyota,Corolla,Altis Manual 1.6
+2022,Toyota,Corolla,Altis Manual 1.6
+2023,Toyota,Corolla,Altis Manual 1.6
+2024,Toyota,Corolla,Altis Manual 1.6
+2025,Toyota,Corolla,Altis Manual 1.6
+2014,Toyota,Corolla,Altis X 1.8
+2015,Toyota,Corolla,Altis X 1.8
+2016,Toyota,Corolla,Altis X 1.8
+2017,Toyota,Corolla,Altis X 1.8
+2018,Toyota,Corolla,Altis X 1.8
+2019,Toyota,Corolla,Altis X 1.8
+2020,Toyota,Corolla,Altis X 1.8
+2021,Toyota,Corolla,Altis X 1.8
+2022,Toyota,Corolla,Altis X 1.8
+2023,Toyota,Corolla,Altis X 1.8
+2024,Toyota,Corolla,Altis X 1.8
+2025,Toyota,Corolla,Altis X 1.8
+2014,Toyota,Corolla,Altis X Automatic 1.6
+2015,Toyota,Corolla,Altis X Automatic 1.6
+2016,Toyota,Corolla,Altis X Automatic 1.6
+2017,Toyota,Corolla,Altis X Automatic 1.6
+2018,Toyota,Corolla,Altis X Automatic 1.6
+2019,Toyota,Corolla,Altis X Automatic 1.6
+2020,Toyota,Corolla,Altis X Automatic 1.6
+2021,Toyota,Corolla,Altis X Automatic 1.6
+2022,Toyota,Corolla,Altis X Automatic 1.6
+2023,Toyota,Corolla,Altis X Automatic 1.6
+2024,Toyota,Corolla,Altis X Automatic 1.6
+2025,Toyota,Corolla,Altis X Automatic 1.6
+2014,Toyota,Corolla,Altis X Automatic 1.6 Special Edition
+2015,Toyota,Corolla,Altis X Automatic 1.6 Special Edition
+2016,Toyota,Corolla,Altis X Automatic 1.6 Special Edition
+2017,Toyota,Corolla,Altis X Automatic 1.6 Special Edition
+2018,Toyota,Corolla,Altis X Automatic 1.6 Special Edition
+2019,Toyota,Corolla,Altis X Automatic 1.6 Special Edition
+2020,Toyota,Corolla,Altis X Automatic 1.6 Special Edition
+2021,Toyota,Corolla,Altis X Automatic 1.6 Special Edition
+2022,Toyota,Corolla,Altis X Automatic 1.6 Special Edition
+2023,Toyota,Corolla,Altis X Automatic 1.6 Special Edition
+2024,Toyota,Corolla,Altis X Automatic 1.6 Special Edition
+2025,Toyota,Corolla,Altis X Automatic 1.6 Special Edition
+2014,Toyota,Corolla,Altis X CVT-i 1.8
+2015,Toyota,Corolla,Altis X CVT-i 1.8
+2016,Toyota,Corolla,Altis X CVT-i 1.8
+2017,Toyota,Corolla,Altis X CVT-i 1.8
+2018,Toyota,Corolla,Altis X CVT-i 1.8
+2019,Toyota,Corolla,Altis X CVT-i 1.8
+2020,Toyota,Corolla,Altis X CVT-i 1.8
+2021,Toyota,Corolla,Altis X CVT-i 1.8
+2022,Toyota,Corolla,Altis X CVT-i 1.8
+2023,Toyota,Corolla,Altis X CVT-i 1.8
+2024,Toyota,Corolla,Altis X CVT-i 1.8
+2025,Toyota,Corolla,Altis X CVT-i 1.8
+2014,Toyota,Corolla,Altis X Manual 1.6
+2015,Toyota,Corolla,Altis X Manual 1.6
+2016,Toyota,Corolla,Altis X Manual 1.6
+2017,Toyota,Corolla,Altis X Manual 1.6
+2018,Toyota,Corolla,Altis X Manual 1.6
+2019,Toyota,Corolla,Altis X Manual 1.6
+2020,Toyota,Corolla,Altis X Manual 1.6
+2021,Toyota,Corolla,Altis X Manual 1.6
+2022,Toyota,Corolla,Altis X Manual 1.6
+2023,Toyota,Corolla,Altis X Manual 1.6
+2024,Toyota,Corolla,Altis X Manual 1.6
+2025,Toyota,Corolla,Altis X Manual 1.6
+2014,Toyota,Corolla,GLi 1.3 VVTi
+2015,Toyota,Corolla,GLi 1.3 VVTi
+2016,Toyota,Corolla,GLi 1.3 VVTi
+2017,Toyota,Corolla,GLi 1.3 VVTi
+2018,Toyota,Corolla,GLi 1.3 VVTi
+2019,Toyota,Corolla,GLi 1.3 VVTi
+2020,Toyota,Corolla,GLi 1.3 VVTi
+2021,Toyota,Corolla,GLi 1.3 VVTi
+2022,Toyota,Corolla,GLi 1.3 VVTi
+2023,Toyota,Corolla,GLi 1.3 VVTi
+2024,Toyota,Corolla,GLi 1.3 VVTi
+2025,Toyota,Corolla,GLi 1.3 VVTi
+2014,Toyota,Corolla,GLi 1.3 VVTi Special Edition
+2015,Toyota,Corolla,GLi 1.3 VVTi Special Edition
+2016,Toyota,Corolla,GLi 1.3 VVTi Special Edition
+2017,Toyota,Corolla,GLi 1.3 VVTi Special Edition
+2018,Toyota,Corolla,GLi 1.3 VVTi Special Edition
+2019,Toyota,Corolla,GLi 1.3 VVTi Special Edition
+2020,Toyota,Corolla,GLi 1.3 VVTi Special Edition
+2021,Toyota,Corolla,GLi 1.3 VVTi Special Edition
+2022,Toyota,Corolla,GLi 1.3 VVTi Special Edition
+2023,Toyota,Corolla,GLi 1.3 VVTi Special Edition
+2024,Toyota,Corolla,GLi 1.3 VVTi Special Edition
+2025,Toyota,Corolla,GLi 1.3 VVTi Special Edition
+2014,Toyota,Corolla,GLi Automatic 1.3 VVTi
+2015,Toyota,Corolla,GLi Automatic 1.3 VVTi
+2016,Toyota,Corolla,GLi Automatic 1.3 VVTi
+2017,Toyota,Corolla,GLi Automatic 1.3 VVTi
+2018,Toyota,Corolla,GLi Automatic 1.3 VVTi
+2019,Toyota,Corolla,GLi Automatic 1.3 VVTi
+2020,Toyota,Corolla,GLi Automatic 1.3 VVTi
+2021,Toyota,Corolla,GLi Automatic 1.3 VVTi
+2022,Toyota,Corolla,GLi Automatic 1.3 VVTi
+2023,Toyota,Corolla,GLi Automatic 1.3 VVTi
+2024,Toyota,Corolla,GLi Automatic 1.3 VVTi
+2025,Toyota,Corolla,GLi Automatic 1.3 VVTi
+2014,Toyota,Corolla,XLi Automatic
+2015,Toyota,Corolla,XLi Automatic
+2016,Toyota,Corolla,XLi Automatic
+2017,Toyota,Corolla,XLi Automatic
+2018,Toyota,Corolla,XLi Automatic
+2019,Toyota,Corolla,XLi Automatic
+2020,Toyota,Corolla,XLi Automatic
+2021,Toyota,Corolla,XLi Automatic
+2022,Toyota,Corolla,XLi Automatic
+2023,Toyota,Corolla,XLi Automatic
+2024,Toyota,Corolla,XLi Automatic
+2025,Toyota,Corolla,XLi Automatic
+2014,Toyota,Corolla,XLi VVTi
+2015,Toyota,Corolla,XLi VVTi
+2016,Toyota,Corolla,XLi VVTi
+2017,Toyota,Corolla,XLi VVTi
+2018,Toyota,Corolla,XLi VVTi
+2019,Toyota,Corolla,XLi VVTi
+2020,Toyota,Corolla,XLi VVTi
+2021,Toyota,Corolla,XLi VVTi
+2022,Toyota,Corolla,XLi VVTi
+2023,Toyota,Corolla,XLi VVTi
+2024,Toyota,Corolla,XLi VVTi
+2025,Toyota,Corolla,XLi VVTi
+2020,Toyota,Yaris Sedan,ATIV CVT 1.3
+2021,Toyota,Yaris Sedan,ATIV CVT 1.3
+2022,Toyota,Yaris Sedan,ATIV CVT 1.3
+2023,Toyota,Yaris Sedan,ATIV CVT 1.3
+2024,Toyota,Yaris Sedan,ATIV CVT 1.3
+2025,Toyota,Yaris Sedan,ATIV CVT 1.3
+2020,Toyota,Yaris Sedan,ATIV CVT 1.5
+2021,Toyota,Yaris Sedan,ATIV CVT 1.5
+2022,Toyota,Yaris Sedan,ATIV CVT 1.5
+2023,Toyota,Yaris Sedan,ATIV CVT 1.5
+2024,Toyota,Yaris Sedan,ATIV CVT 1.5
+2025,Toyota,Yaris Sedan,ATIV CVT 1.5
+2020,Toyota,Yaris Sedan,ATIV MT 1.3
+2021,Toyota,Yaris Sedan,ATIV MT 1.3
+2022,Toyota,Yaris Sedan,ATIV MT 1.3
+2023,Toyota,Yaris Sedan,ATIV MT 1.3
+2024,Toyota,Yaris Sedan,ATIV MT 1.3
+2025,Toyota,Yaris Sedan,ATIV MT 1.3
+2020,Toyota,Yaris Sedan,ATIV MT 1.5
+2021,Toyota,Yaris Sedan,ATIV MT 1.5
+2022,Toyota,Yaris Sedan,ATIV MT 1.5
+2023,Toyota,Yaris Sedan,ATIV MT 1.5
+2024,Toyota,Yaris Sedan,ATIV MT 1.5
+2025,Toyota,Yaris Sedan,ATIV MT 1.5
+2020,Toyota,Yaris Sedan,ATIV X CVT 1.5
+2021,Toyota,Yaris Sedan,ATIV X CVT 1.5
+2022,Toyota,Yaris Sedan,ATIV X CVT 1.5
+2023,Toyota,Yaris Sedan,ATIV X CVT 1.5
+2024,Toyota,Yaris Sedan,ATIV X CVT 1.5
+2025,Toyota,Yaris Sedan,ATIV X CVT 1.5
+2020,Toyota,Yaris Sedan,ATIV X CVT 1.5 Beige Interior
+2021,Toyota,Yaris Sedan,ATIV X CVT 1.5 Beige Interior
+2022,Toyota,Yaris Sedan,ATIV X CVT 1.5 Beige Interior
+2023,Toyota,Yaris Sedan,ATIV X CVT 1.5 Beige Interior
+2024,Toyota,Yaris Sedan,ATIV X CVT 1.5 Beige Interior
+2025,Toyota,Yaris Sedan,ATIV X CVT 1.5 Beige Interior
+2020,Toyota,Yaris Sedan,ATIV X CVT 1.5 Black Interior
+2021,Toyota,Yaris Sedan,ATIV X CVT 1.5 Black Interior
+2022,Toyota,Yaris Sedan,ATIV X CVT 1.5 Black Interior
+2023,Toyota,Yaris Sedan,ATIV X CVT 1.5 Black Interior
+2024,Toyota,Yaris Sedan,ATIV X CVT 1.5 Black Interior
+2025,Toyota,Yaris Sedan,ATIV X CVT 1.5 Black Interior
+2020,Toyota,Yaris Sedan,ATIV X MT 1.5
+2021,Toyota,Yaris Sedan,ATIV X MT 1.5
+2022,Toyota,Yaris Sedan,ATIV X MT 1.5
+2023,Toyota,Yaris Sedan,ATIV X MT 1.5
+2024,Toyota,Yaris Sedan,ATIV X MT 1.5
+2025,Toyota,Yaris Sedan,ATIV X MT 1.5
+2020,Toyota,Yaris Sedan,GLI CVT 1.3
+2021,Toyota,Yaris Sedan,GLI CVT 1.3
+2022,Toyota,Yaris Sedan,GLI CVT 1.3
+2023,Toyota,Yaris Sedan,GLI CVT 1.3
+2024,Toyota,Yaris Sedan,GLI CVT 1.3
+2025,Toyota,Yaris Sedan,GLI CVT 1.3
+2020,Toyota,Yaris Sedan,GLI MT 1.3
+2021,Toyota,Yaris Sedan,GLI MT 1.3
+2022,Toyota,Yaris Sedan,GLI MT 1.3
+2023,Toyota,Yaris Sedan,GLI MT 1.3
+2024,Toyota,Yaris Sedan,GLI MT 1.3
+2025,Toyota,Yaris Sedan,GLI MT 1.3

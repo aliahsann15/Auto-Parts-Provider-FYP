@@ -1,0 +1,2126 @@
+[{
+  "_id": {
+    "$oid": "694093858921438752889b66"
+  },
+  "name": "High-Performance Ceramic Brake Pads (Front Set)",
+  "description": "Performance ceramic pads for stronger bite and better fade resistance in daily + highway use.",
+  "technicalDescription": "Ceramic compound designed for stable braking temps with reduced dust and noise. OEM-caliper compatible. Requires proper pad bedding.",
+  "price": 42000,
+  "salePrice": 36900,
+  "brand": "Brembo",
+  "sku": "10001",
+  "stock": 17,
+  "categories": [
+    "Brakes"
+  ],
+  "make": "Honda",
+  "carModel": "Civic",
+  "variant": "Civic X (10th Gen) - 1.5 RS Turbo",
+  "year": "2016-2022",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "deleted",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 6.5,
+    "length": 8.5,
+    "height": 3.2
+  },
+  "warrantyDurationValue": 1,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T05:34:22.807Z"
+  },
+  "__v": 0,
+  "modelName": "Civic",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842157570-99FC7934-FCD0-4CC7-8A2C-A0717C22CAB8.png",
+    "http://10.125.49.114:4001/uploads/1765842157618-A89DC75B-EDA4-4DFF-A86E-CC1F8A9AD21E.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b67"
+  },
+  "name": "Street Coilover Kit (Height Adjustable)",
+  "description": "Height-adjustable coilovers for improved handling and reduced body roll with a clean stance.",
+  "technicalDescription": "Threaded height adjustment with matched dampers and springs (street spec). Alignment required after install; ride height changes camber/toe.",
+  "price": 285000,
+  "salePrice": 249000,
+  "brand": "TEIN",
+  "sku": "10002",
+  "stock": 6,
+  "categories": [
+    "Suspension"
+  ],
+  "make": "Suzuki",
+  "carModel": "Swift",
+  "variant": "GLX CVT",
+  "year": "2022-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "draft",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 16,
+    "length": 30,
+    "height": 12
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T05:14:39.187Z"
+  },
+  "__v": 0,
+  "modelName": "Swift",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842180250-2E8D0C10-18FF-47F3-B096-4A21B1031B8B.png",
+    "http://10.125.49.114:4001/uploads/1765842180353-06BAB748-4835-44A4-9CB8-8F8AD63B9E73.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b68"
+  },
+  "name": "High-Flow Drop-in Air Filter (Panel Type)",
+  "description": "Reusable high-flow filter inside OEM airbox for better breathing and throttle response.",
+  "technicalDescription": "Oiled cotton-gauze media with OEM-style sealing. Washable and reusable. Gains depend on intake condition and maintenance.",
+  "price": 18500,
+  "salePrice": 18500,
+  "brand": "K&N",
+  "sku": "10003",
+  "stock": 29,
+  "categories": [
+    "Intake"
+  ],
+  "make": "Toyota",
+  "carModel": "Corolla",
+  "variant": "Altis 1.6 X CVT-i",
+  "year": "2014-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 10.5,
+    "length": 12.2,
+    "height": 2.2
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T05:37:05.784Z"
+  },
+  "__v": 0,
+  "modelName": "Corolla",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842195656-E0B9FCBC-CA11-4F67-9361-4074575FBD3B.png",
+    "http://10.125.49.114:4001/uploads/1765842195699-908500B9-D95D-419E-9D92-BAAFF79A567B.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b69"
+  },
+  "name": "Stainless Catback Exhaust (Street Tone)",
+  "description": "Catback exhaust for improved flow and a sporty note while staying daily-drivable.",
+  "technicalDescription": "Stainless piping with performance muffler design. Bolts to stock flange points (fitment dependent). Sound varies by resonator spec.",
+  "price": 165000,
+  "salePrice": 165000,
+  "brand": "HKS",
+  "sku": "10004",
+  "stock": 5,
+  "categories": [
+    "Exhaust"
+  ],
+  "make": "Honda",
+  "carModel": "City",
+  "variant": "1.5L ASPIRE CVT",
+  "year": "2021-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 18,
+    "length": 55,
+    "height": 12
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-18T23:41:12.728Z"
+  },
+  "__v": 0,
+  "modelName": "City",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842221088-AD47D845-1DF6-4242-AB12-9DF101B8FC1A.png",
+    "http://10.125.49.114:4001/uploads/1765842221142-35345DD1-0682-4A40-8899-C82F5A38A0E7.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b6a"
+  },
+  "name": "Front Mount Intercooler Upgrade Kit",
+  "description": "Upgraded intercooler to reduce intake temperatures and maintain consistent turbo power.",
+  "technicalDescription": "Larger bar-and-plate core vs OEM for improved charge-air cooling efficiency. Leak-check required after install; clamp quality matters.",
+  "price": 395000,
+  "salePrice": 349000,
+  "brand": "Mishimoto",
+  "sku": "10005",
+  "stock": 4,
+  "categories": [
+    "Turbo & Intercooling"
+  ],
+  "make": "Haval",
+  "carModel": "H6",
+  "variant": "2.0T",
+  "year": "2021-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 12,
+    "length": 34,
+    "height": 8
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-15T23:44:10.690Z"
+  },
+  "__v": 0,
+  "modelName": "H6",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842250570-1FBB30B6-E5DF-4E85-8D53-BD955DF85D21.png",
+    "http://10.125.49.114:4001/uploads/1765842250641-AB261B48-24A7-41CE-A880-7031ACEDE6F7.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b6b"
+  },
+  "name": "OBD Performance Tuner (Plug-and-Play Module)",
+  "description": "Quick improvement in throttle response and torque feel without permanent ECU flashing.",
+  "technicalDescription": "Sensor-intercept tuning module with selectable maps (device dependent). Gains vary with fuel quality and vehicle condition.",
+  "price": 235000,
+  "salePrice": 235000,
+  "brand": "RaceChip",
+  "sku": "10006",
+  "stock": 7,
+  "categories": [
+    "ECU Tuning & Electronics"
+  ],
+  "make": "Haval",
+  "carModel": "H6",
+  "variant": "1.5T",
+  "year": "2021-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 6.5,
+    "length": 8.5,
+    "height": 2.5
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-15T23:44:25.600Z"
+  },
+  "__v": 0,
+  "modelName": "H6",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842265544-ACA62E52-D3C2-4A8C-A1AE-78FEE982B4AF.png",
+    "http://10.125.49.114:4001/uploads/1765842265586-0A7C0456-C08A-43C9-854A-643497D5DE75.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b6c"
+  },
+  "name": "High-Flow In-Tank Fuel Pump (Drop-in)",
+  "description": "Fuel pump upgrade to support tuned setups and higher fuel demand under load.",
+  "technicalDescription": "Higher flow-rate in-tank pump vs OEM to maintain stable fuel delivery. Tuning may be required depending on targets and injectors.",
+  "price": 98000,
+  "salePrice": 98000,
+  "brand": "DeatschWerks",
+  "sku": "10007",
+  "stock": 9,
+  "categories": [
+    "Fuel System"
+  ],
+  "make": "Honda",
+  "carModel": "Civic",
+  "variant": "Civic X (10th Gen) - Turbo 1.5 VTEC CVT",
+  "year": "2016-2022",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 6,
+    "length": 10,
+    "height": 6
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-15T23:44:43.368Z"
+  },
+  "__v": 0,
+  "modelName": "Civic",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842283247-4A1243F3-68BD-496D-BB09-DE885568C0B0.png",
+    "http://10.125.49.114:4001/uploads/1765842283307-816803C6-F772-4DEF-B7AB-EA374C48FB47.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b6d"
+  },
+  "name": "OEM-Grade Radiator Assembly",
+  "description": "Direct replacement radiator for stable temperatures in traffic and long drives with AC load.",
+  "technicalDescription": "OE-style aluminum core with plastic end tanks. Matches OEM mounting points. Use correct coolant type and proper bleeding.",
+  "price": 78000,
+  "salePrice": 78000,
+  "brand": "Denso",
+  "sku": "10008",
+  "stock": 11,
+  "categories": [
+    "Cooling"
+  ],
+  "make": "Hyundai",
+  "carModel": "Tucson",
+  "variant": "GLS AWD",
+  "year": "2020-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 18,
+    "length": 28,
+    "height": 2.5
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-15T23:45:04.760Z"
+  },
+  "__v": 0,
+  "modelName": "Tucson",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842304663-EC91CC19-67D4-4696-B9F6-53293938A7D0.png",
+    "http://10.125.49.114:4001/uploads/1765842304731-3C6FC65C-9C99-4128-803E-DCDBD7EF6D08.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b6e"
+  },
+  "name": "Forged Piston Set (Performance Build)",
+  "description": "Forged pistons for better reliability under higher cylinder pressure in performance builds.",
+  "technicalDescription": "Forged aluminum pistons (kit dependent). Requires machining, correct ring gaps, and professional assembly for long-term reliability.",
+  "price": 265000,
+  "salePrice": 239000,
+  "brand": "Wiseco",
+  "sku": "10009",
+  "stock": 2,
+  "categories": [
+    "Engine Internals"
+  ],
+  "make": "Honda",
+  "carModel": "Civic",
+  "variant": "Civic X (10th Gen) - 1.8 i-VTEC CVT",
+  "year": "2016-2022",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 8,
+    "length": 10,
+    "height": 6
+  },
+  "warrantyDurationValue": 30,
+  "warrantyDurationUnit": "DAY",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T05:34:22.804Z"
+  },
+  "__v": 0,
+  "modelName": "Civic",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842318876-EB15C4C1-698C-459E-AFC3-AC668B016869.png",
+    "http://10.125.49.114:4001/uploads/1765842318904-C2FAA301-7D66-4C90-A98D-06DC46AED6F6.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b6f"
+  },
+  "name": "Stage 1 Clutch Kit (Organic Disc)",
+  "description": "Stronger clutch feel and improved holding power for daily use and mild upgrades.",
+  "technicalDescription": "Organic friction disc + pressure plate with OEM-style engagement. Recommended: resurface flywheel and replace release bearing.",
+  "price": 52000,
+  "salePrice": 52000,
+  "brand": "Exedy",
+  "sku": "10010",
+  "stock": 14,
+  "categories": [
+    "Clutch & Transmission"
+  ],
+  "make": "Toyota",
+  "carModel": "Corolla",
+  "variant": "Altis Manual 1.6",
+  "year": "2014-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 10.5,
+    "length": 11.5,
+    "height": 3.8
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-15T23:45:51.513Z"
+  },
+  "__v": 0,
+  "modelName": "Corolla",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842351480-E9F7FD7F-B17A-4AD2-9EC4-590B5656C9C3.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b70"
+  },
+  "name": "Helical Limited Slip Differential (LSD)",
+  "description": "Improves traction and reduces inside-wheel spin for better acceleration out of corners.",
+  "technicalDescription": "Torque-biasing helical LSD. No clutch packs. Requires professional gearbox/diff setup and correct oil selection.",
+  "price": 410000,
+  "salePrice": 410000,
+  "brand": "Quaife",
+  "sku": "10011",
+  "stock": 1,
+  "categories": [
+    "Drivetrain & Differential"
+  ],
+  "make": "Suzuki",
+  "carModel": "Cultus",
+  "variant": "Auto Gear Shift",
+  "year": "2017-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 10,
+    "length": 12,
+    "height": 8
+  },
+  "warrantyDurationValue": 12,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T01:20:21.169Z"
+  },
+  "__v": 0,
+  "modelName": "Cultus",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842365476-4982A78C-F644-46CC-A249-927CC29A0031.png",
+    "http://10.125.49.114:4001/uploads/1765842365521-BB63090C-A3E2-43DC-93CB-8483151BD8E3.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b71"
+  },
+  "name": "Lightweight Alloy Wheel Set (17-inch, Set of 4)",
+  "description": "Lightweight wheels to improve steering response and overall handling feel.",
+  "technicalDescription": "Alloy wheel construction (model dependent). Fitment must match PCD/offset/hub bore. Recommended: alignment after install.",
+  "price": 260000,
+  "salePrice": 260000,
+  "brand": "Enkei",
+  "sku": "10012",
+  "stock": 4,
+  "categories": [
+    "Wheels & Tires"
+  ],
+  "make": "Toyota",
+  "carModel": "Yaris Sedan",
+  "variant": "ATIV X CVT 1.5 Black Interior",
+  "year": "2020-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 18,
+    "length": 22,
+    "height": 18
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-15T23:46:41.721Z"
+  },
+  "__v": 0,
+  "modelName": "Yaris Sedan",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842401659-085CCC5D-5DE2-4A8B-9BF7-DD2B1A65B55E.png",
+    "http://10.125.49.114:4001/uploads/1765842401701-79D8DC23-C965-494D-A1EE-6239498938F6.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b72"
+  },
+  "name": "Aero Body Kit (Front Lip + Side Skirts + Rear Diffuser)",
+  "description": "Adds a lower sporty look and improved styling for a cleaner profile.",
+  "technicalDescription": "ABS/PU components (kit dependent). Requires precise mounting and surface prep. Professional installation recommended for best fit.",
+  "price": 145000,
+  "salePrice": 129000,
+  "brand": "TRD Style",
+  "sku": "10013",
+  "stock": 5,
+  "categories": [
+    "Body Kits & Aero"
+  ],
+  "make": "Toyota",
+  "carModel": "Corolla",
+  "variant": "Altis Grande CVT-i 1.8",
+  "year": "2014-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 24,
+    "length": 70,
+    "height": 14
+  },
+  "warrantyDurationValue": 30,
+  "warrantyDurationUnit": "DAY",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T05:34:22.808Z"
+  },
+  "__v": 0,
+  "modelName": "Corolla",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842415231-A2643CBA-D2BE-486F-982D-3A5B4E2392E8.png",
+    "http://10.125.49.114:4001/uploads/1765842415269-80CE8DBC-03A6-4719-A66C-09D484EDE6BF.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b73"
+  },
+  "name": "LED Headlight Bulb Upgrade Kit (Pair)",
+  "description": "Brighter, whiter light output for improved night visibility on daily routes.",
+  "technicalDescription": "LED bulbs with integrated driver (model dependent). Correct beam pattern depends on housing type. Aim headlights after install.",
+  "price": 16500,
+  "salePrice": 16500,
+  "brand": "Philips",
+  "sku": "10014",
+  "stock": 40,
+  "categories": [
+    "Lighting"
+  ],
+  "make": "Suzuki",
+  "carModel": "Wagon R",
+  "variant": "AGS",
+  "year": "2014-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 5,
+    "length": 6,
+    "height": 3
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-15T23:47:11.828Z"
+  },
+  "__v": 0,
+  "modelName": "Wagon R",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842431716-A638CDA3-8D33-4280-AF19-8FD907E82E17.png",
+    "http://10.125.49.114:4001/uploads/1765842431777-E655DF29-AD63-4480-8CEF-68879F72DE59.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b74"
+  },
+  "name": "Wideband O2 Sensor (5-Wire Replacement)",
+  "description": "Replacement wideband oxygen sensor for stable AFR feedback and smooth drivability.",
+  "technicalDescription": "Wideband lambda sensor used for closed-loop fuel control. Correct connector and harness routing prevents heater-circuit faults.",
+  "price": 38000,
+  "salePrice": 38000,
+  "brand": "Bosch",
+  "sku": "10015",
+  "stock": 16,
+  "categories": [
+    "Sensors & Wiring"
+  ],
+  "make": "Honda",
+  "carModel": "Civic",
+  "variant": "11th Gen - RS 1.5 Turbo",
+  "year": "2022-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 4,
+    "length": 8,
+    "height": 3
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-15T23:48:53.599Z"
+  },
+  "__v": 0,
+  "modelName": "Civic",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765842533542-E06DCA4E-2671-4BBF-99A1-A498149653F0.png",
+    "http://10.125.49.114:4001/uploads/1765842533582-2E9C2DC3-F408-4969-999A-7534A725680D.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b75"
+  },
+  "name": "Performance Brake Rotors (Slotted Front Pair)",
+  "description": "Slotted rotors for improved heat management and stronger braking consistency.",
+  "technicalDescription": "Precision-machined slotted surface to reduce pad glazing and improve bite. Best results with proper bedding and compatible pads.",
+  "price": 98000,
+  "salePrice": 87900,
+  "brand": "EBC",
+  "sku": "20001",
+  "stock": 9,
+  "categories": [
+    "Brakes"
+  ],
+  "make": "Kia",
+  "carModel": "Sportage",
+  "variant": "Clear White Limited Edition",
+  "year": "2019-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 12.5,
+    "length": 12.5,
+    "height": 3.2
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-18T23:07:29.482Z"
+  },
+  "__v": 0,
+  "modelName": "Sportage",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765844988431-824BC20E-D029-400A-8205-E88D00722409.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b76"
+  },
+  "name": "Sport Lowering Springs (Progressive Rate)",
+  "description": "Improves stance and reduces body roll with a comfortable daily ride feel.",
+  "technicalDescription": "Progressive-rate springs to improve handling while maintaining usable ride comfort. Alignment required after installation.",
+  "price": 68000,
+  "salePrice": 68000,
+  "brand": "Eibach",
+  "sku": "20002",
+  "stock": 10,
+  "categories": [
+    "Suspension"
+  ],
+  "make": "Toyota",
+  "carModel": "Corolla",
+  "variant": "Altis 1.6 X CVT-i Special Edition",
+  "year": "2014-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 15,
+    "length": 24,
+    "height": 8
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:29:57.443Z"
+  },
+  "__v": 0,
+  "modelName": "Corolla",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765844997250-DFBAA394-8D41-4E19-927D-DD5621603A3F.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b77"
+  },
+  "name": "Cold Air Intake Kit (High Flow + Heat Shield)",
+  "description": "Improves airflow and throttle response with a sporty induction sound.",
+  "technicalDescription": "Mandrel-bent intake tubing with high-flow filter and heat shielding (kit dependent). MAF stability depends on correct sensor seating.",
+  "price": 155000,
+  "salePrice": 155000,
+  "brand": "AEM",
+  "sku": "20003",
+  "stock": 5,
+  "categories": [
+    "Intake"
+  ],
+  "make": "Honda",
+  "carModel": "Civic",
+  "variant": "11th Gen - Oriel 1.5 Turbo",
+  "year": "2022-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 14,
+    "length": 26,
+    "height": 12
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:30:05.012Z"
+  },
+  "__v": 0,
+  "modelName": "Civic",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845004951-7F7FB338-8964-46E9-81FD-FDDD7FD4DD02.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b78"
+  },
+  "name": "Catback Exhaust System (Deep Tone)",
+  "description": "Improved exhaust flow with a clean sporty sound while staying usable for daily driving.",
+  "technicalDescription": "Stainless catback with performance muffler. Fitment depends on hanger positions and bumper clearance. Use new gaskets.",
+  "price": 125000,
+  "salePrice": 125000,
+  "brand": "MagnaFlow",
+  "sku": "20004",
+  "stock": 6,
+  "categories": [
+    "Exhaust"
+  ],
+  "make": "Suzuki",
+  "carModel": "Swift",
+  "variant": "GL Manual",
+  "year": "2022-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 18,
+    "length": 55,
+    "height": 12
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:30:14.545Z"
+  },
+  "__v": 0,
+  "modelName": "Swift",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845014490-C2E2F706-675F-4444-A500-7B77CDC93646.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b79"
+  },
+  "name": "Front Mount Intercooler Core Upgrade",
+  "description": "Reduces intake temps to help turbo power stay consistent in hot weather.",
+  "technicalDescription": "Upgraded intercooler core with improved heat exchange and reduced pressure drop (kit dependent). Perform boost leak test after install.",
+  "price": 365000,
+  "salePrice": 329000,
+  "brand": "Garrett",
+  "sku": "20005",
+  "stock": 4,
+  "categories": [
+    "Turbo & Intercooling"
+  ],
+  "make": "Haval",
+  "carModel": "H6",
+  "variant": "HEV",
+  "year": "2021-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 12,
+    "length": 33,
+    "height": 8
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:30:31.672Z"
+  },
+  "__v": 0,
+  "modelName": "H6",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845031623-07678B0B-E9C4-4A98-BAB6-E758E7C9ECA6.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b7a"
+  },
+  "name": "ECU Scan + Live Data Monitor (Advanced OBD Tool)",
+  "description": "Advanced diagnostics and live monitoring for engine parameters and fault tracing.",
+  "technicalDescription": "OBD tool supports reading/clearing DTCs and live PID monitoring (feature availability depends on ECU protocol). Useful for troubleshooting.",
+  "price": 98000,
+  "salePrice": 98000,
+  "brand": "Autel",
+  "sku": "20006",
+  "stock": 12,
+  "categories": [
+    "ECU Tuning & Electronics"
+  ],
+  "make": "Changan",
+  "carModel": "Alsvin",
+  "variant": "1.5L DCT Comfort",
+  "year": "2021-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 7,
+    "length": 10,
+    "height": 3
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:32:42.847Z"
+  },
+  "__v": 0,
+  "modelName": "Alsvin",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845162796-A4B40285-E048-4D18-BBE2-A47AC9F932E9.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b7b"
+  },
+  "name": "Adjustable Fuel Pressure Regulator Kit",
+  "description": "Helps stabilize and fine-tune fuel pressure for consistent fueling on modified setups.",
+  "technicalDescription": "Adjustable regulator for rail pressure control (setup dependent). Requires correct fittings/lines and gauge verification during setup.",
+  "price": 68000,
+  "salePrice": 68000,
+  "brand": "Aeromotive",
+  "sku": "20007",
+  "stock": 12,
+  "categories": [
+    "Fuel System"
+  ],
+  "make": "Changan",
+  "carModel": "Alsvin",
+  "variant": "1.5L DCT Lumiere",
+  "year": "2021-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 6,
+    "length": 8,
+    "height": 4
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:32:51.981Z"
+  },
+  "__v": 0,
+  "modelName": "Alsvin",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845171931-D8FD2515-7BA5-44E4-9786-2A4213868C35.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b7c"
+  },
+  "name": "High-Capacity Aluminum Radiator Upgrade",
+  "description": "Improves cooling headroom for city heat and long drives with AC load.",
+  "technicalDescription": "All-aluminum radiator improves heat dissipation vs many OE plastic-tank designs. Proper bleeding and correct coolant mix required.",
+  "price": 98000,
+  "salePrice": 98000,
+  "brand": "Mishimoto",
+  "sku": "20008",
+  "stock": 7,
+  "categories": [
+    "Cooling"
+  ],
+  "make": "Honda",
+  "carModel": "Civic",
+  "variant": "Rebirth - VTi Oriel Prosmatec",
+  "year": "2012-2016",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 18,
+    "length": 28,
+    "height": 2.5
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:33:35.998Z"
+  },
+  "__v": 0,
+  "modelName": "Civic",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845215949-5C6B66F1-66CA-4BDA-A8C1-90D99FAE228B.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b7d"
+  },
+  "name": "Performance Main & Rod Bearing Set",
+  "description": "Engine bearing set for rebuilds focused on reliability and performance tolerances.",
+  "technicalDescription": "Precision bearing shells designed for correct oil clearances (build dependent). Requires measurements, torque specs, and clean assembly.",
+  "price": 42000,
+  "salePrice": 42000,
+  "brand": "ACL",
+  "sku": "20009",
+  "stock": 10,
+  "categories": [
+    "Engine Internals"
+  ],
+  "make": "Toyota",
+  "carModel": "Corolla",
+  "variant": "Altis CVT-i 1.8",
+  "year": "2014-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 6,
+    "length": 8,
+    "height": 2.5
+  },
+  "warrantyDurationValue": 30,
+  "warrantyDurationUnit": "DAY",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:33:54.132Z"
+  },
+  "__v": 0,
+  "modelName": "Corolla",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845234063-4333760D-8C61-482F-A437-CB697324D576.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b7e"
+  },
+  "name": "CVT Transmission Cooler Kit (Aux Cooler)",
+  "description": "Helps reduce CVT fluid temperatures for smoother operation in traffic and heat.",
+  "technicalDescription": "Auxiliary cooler installed inline with transmission fluid routing. Proper hose routing and clamp torque required to avoid leaks.",
+  "price": 52000,
+  "salePrice": 52000,
+  "brand": "Hayden",
+  "sku": "20010",
+  "stock": 9,
+  "categories": [
+    "Clutch & Transmission"
+  ],
+  "make": "Toyota",
+  "carModel": "Yaris Sedan",
+  "variant": "ATIV CVT 1.3",
+  "year": "2020-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 10,
+    "length": 12,
+    "height": 2.5
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:34:03.513Z"
+  },
+  "__v": 0,
+  "modelName": "Yaris Sedan",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845243451-E89006A3-0D06-40AF-B2AB-DD3BBFCA2379.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b7f"
+  },
+  "name": "Rear Differential Mount Bushing Kit (Poly)",
+  "description": "Reduces drivetrain movement and improves stability during acceleration load.",
+  "technicalDescription": "Polyurethane bushings reduce driveline slop vs soft OEM rubber. May slightly increase NVH. Correct orientation required.",
+  "price": 68000,
+  "salePrice": 68000,
+  "brand": "Powerflex",
+  "sku": "20011",
+  "stock": 6,
+  "categories": [
+    "Drivetrain & Differential"
+  ],
+  "make": "Hyundai",
+  "carModel": "Tucson",
+  "variant": "Ultimate FWD",
+  "year": "2020-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 8,
+    "length": 10,
+    "height": 6
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:34:12.115Z"
+  },
+  "__v": 0,
+  "modelName": "Tucson",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845251972-496FF54B-965E-4415-BFD6-A488581F9CCF.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b80"
+  },
+  "name": "Ultra-High Performance Tires (Set of 4)",
+  "description": "Better grip and braking performance for confident handling on highway and wet roads.",
+  "technicalDescription": "UHP performance compound (tire model dependent). Correct load rating and pressure required. Alignment recommended for even wear.",
+  "price": 220000,
+  "salePrice": 199000,
+  "brand": "Michelin",
+  "sku": "20012",
+  "stock": 5,
+  "categories": [
+    "Wheels & Tires"
+  ],
+  "make": "Honda",
+  "carModel": "Civic",
+  "variant": "11th Gen - Standard 1.5 Turbo",
+  "year": "2022-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 9,
+    "length": 27,
+    "height": 9
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:34:28.272Z"
+  },
+  "__v": 0,
+  "modelName": "Civic",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845268226-DE7346C5-C769-466B-9142-502FCA3B1787.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b81"
+  },
+  "name": "Aero Lip Kit (Front Lip + Side Skirts)",
+  "description": "Adds a sporty look and cleaner side profile with durable street-friendly aero parts.",
+  "technicalDescription": "ABS/PU lip components (kit dependent). Requires accurate positioning and secure mounting. Recommended: professional install.",
+  "price": 135000,
+  "salePrice": 135000,
+  "brand": "Maxton Design Style",
+  "sku": "20013",
+  "stock": 7,
+  "categories": [
+    "Body Kits & Aero"
+  ],
+  "make": "Kia",
+  "carModel": "Sportage",
+  "variant": "Black Limited Edition",
+  "year": "2019-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 22,
+    "length": 65,
+    "height": 12
+  },
+  "warrantyDurationValue": 30,
+  "warrantyDurationUnit": "DAY",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:34:38.240Z"
+  },
+  "__v": 0,
+  "modelName": "Sportage",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845278205-ABA745E9-9DB6-4DA1-9C46-938D7B876997.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b82"
+  },
+  "name": "Bi-LED Projector Retrofit Kit (Pair)",
+  "description": "Sharper cutoff and stronger output for safer night driving with a premium look.",
+  "technicalDescription": "Bi-LED projector retrofit requires headlight opening and resealing. Includes wiring harness (kit dependent). Proper aiming is mandatory.",
+  "price": 185000,
+  "salePrice": 185000,
+  "brand": "Morimoto",
+  "sku": "20014",
+  "stock": 4,
+  "categories": [
+    "Lighting"
+  ],
+  "make": "Honda",
+  "carModel": "City",
+  "variant": "1.5L ASPIRE S CVT",
+  "year": "2021-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 10,
+    "length": 12,
+    "height": 8
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:34:49.205Z"
+  },
+  "__v": 0,
+  "modelName": "City",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845289152-BA934B44-773B-4225-B370-3183EF568CED.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b83"
+  },
+  "name": "Sport Seat + 4-Point Harness Bundle",
+  "description": "Better seating support and safer restraint feel for spirited driving setups.",
+  "technicalDescription": "Fixed-back style seat (variant dependent) with 4-point harness. Requires proper brackets and safe anchor points. Pro install recommended.",
+  "price": 175000,
+  "salePrice": 149000,
+  "brand": "Sparco",
+  "sku": "20015",
+  "stock": 3,
+  "categories": [
+    "Interior & Safety"
+  ],
+  "make": "Suzuki",
+  "carModel": "Alto",
+  "variant": "VXR AGS Upgraded",
+  "year": "2019-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 22,
+    "length": 24,
+    "height": 34
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:35:04.330Z"
+  },
+  "__v": 0,
+  "modelName": "Alto",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845304267-D87B14FA-0821-4412-8221-ED027CA00013.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b84"
+  },
+  "name": "High-Flow Electric Fuel Pump (Inline)",
+  "description": "Inline pump for improved fuel delivery stability on upgraded fuel setups.",
+  "technicalDescription": "High-flow inline electric pump (spec dependent). Requires proper wiring relay, fuse, and secure mounting to avoid vibration/noise issues.",
+  "price": 45000,
+  "salePrice": 45000,
+  "brand": "Walbro",
+  "sku": "20016",
+  "stock": 14,
+  "categories": [
+    "Pumps"
+  ],
+  "make": "Toyota",
+  "carModel": "Yaris Sedan",
+  "variant": "GLI MT 1.3",
+  "year": "2020-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 5,
+    "length": 9,
+    "height": 4
+  },
+  "warrantyDurationValue": 2,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:35:16.085Z"
+  },
+  "__v": 0,
+  "modelName": "Yaris Sedan",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845316012-49FBCAE4-D196-4623-996D-A2B28567F0D4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b85"
+  },
+  "name": "Upgraded Water Pump Assembly (OE Replacement+)",
+  "description": "Reliable water pump replacement to keep coolant circulation stable in hot weather conditions.",
+  "technicalDescription": "OE-style pump with improved bearing/seal quality (brand dependent). Replace gasket and bleed cooling system after installation.",
+  "price": 18500,
+  "salePrice": 18500,
+  "brand": "AISIN",
+  "sku": "20017",
+  "stock": 20,
+  "categories": [
+    "Pumps"
+  ],
+  "make": "Suzuki",
+  "carModel": "Cultus",
+  "variant": "VXR",
+  "year": "2017-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 7,
+    "length": 8,
+    "height": 6
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:36:25.413Z"
+  },
+  "__v": 0,
+  "modelName": "Cultus",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845385312-7D1CE45F-66F7-4FCC-B790-902EEEA5BEA5.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b86"
+  },
+  "name": "OEM Wiring Harness Adapter (Discontinued Stock)",
+  "description": "Hard-to-find OEM adapter harness for plug-and-play compatibility without cutting wires.",
+  "technicalDescription": "Factory-spec connector adapter (discontinued line). Prevents splicing and helps retain OEM electrical integrity. Verify pins before install.",
+  "price": 22000,
+  "salePrice": 22000,
+  "brand": "Genuine OEM",
+  "sku": "20018",
+  "stock": 2,
+  "categories": [
+    "Rare / OEM Discontinued"
+  ],
+  "make": "Toyota",
+  "carModel": "Corolla",
+  "variant": "Altis Grande X CVT-i 1.8 Beige Interior",
+  "year": "2014-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 6,
+    "length": 10,
+    "height": 2.5
+  },
+  "warrantyDurationValue": 7,
+  "warrantyDurationUnit": "DAY",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:36:38.193Z"
+  },
+  "__v": 0,
+  "modelName": "Corolla",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845398095-6F098611-C748-43D0-A0FC-15956AEE5817.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b87"
+  },
+  "name": "MAP Sensor Upgrade (Direct Fit)",
+  "description": "More stable boost/pressure sensing for better ECU control on modified intake setups.",
+  "technicalDescription": "Direct-fit MAP sensor (spec dependent). Helps ECU read manifold pressure accurately. Proper calibration may be needed on tuned vehicles.",
+  "price": 24000,
+  "salePrice": 24000,
+  "brand": "Delphi",
+  "sku": "20019",
+  "stock": 15,
+  "categories": [
+    "Sensors & Wiring"
+  ],
+  "make": "Toyota",
+  "carModel": "Corolla",
+  "variant": "GLi 1.3 VVTi",
+  "year": "2014-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 3,
+    "length": 4,
+    "height": 2
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:37:00.271Z"
+  },
+  "__v": 0,
+  "modelName": "Corolla",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845420204-D4DBBB3E-F7CF-4DC2-837E-7851F24CDE00.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b88"
+  },
+  "name": "Performance Ignition Coil Pack (Direct Replacement)",
+  "description": "Improves spark stability for smoother acceleration and better response on tuned setups.",
+  "technicalDescription": "Higher energy coil output (kit dependent) to support consistent combustion. Direct-fit replacement. Verify connector and coil dwell settings if tuned.",
+  "price": 52000,
+  "salePrice": 52000,
+  "brand": "NGK",
+  "sku": "10016",
+  "stock": 10,
+  "categories": [
+    "Ignition"
+  ],
+  "make": "Honda",
+  "carModel": "City",
+  "variant": "1.2L CVT",
+  "year": "2021-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 6,
+    "length": 8,
+    "height": 3
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T02:40:57.485Z"
+  },
+  "__v": 0,
+  "modelName": "City",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765852857445-FE22837F-B00C-44C3-AA28-18332A305B47.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b89"
+  },
+  "name": "High-Flow Oil Filter (Performance Series)",
+  "description": "Improved filtration and flow for engines under higher rpm and heat conditions.",
+  "technicalDescription": "High-flow media with strong burst pressure rating. Helps maintain oil flow at higher demand. Replace at recommended intervals.",
+  "price": 4200,
+  "salePrice": 4200,
+  "brand": "K&N",
+  "sku": "10017",
+  "stock": 60,
+  "categories": [
+    "Filters"
+  ],
+  "make": "Toyota",
+  "carModel": "Corolla",
+  "variant": "Altis 1.8",
+  "year": "2014-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 3.5,
+    "length": 4.2,
+    "height": 3.5
+  },
+  "warrantyDurationValue": 7,
+  "warrantyDurationUnit": "DAY",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T02:41:09.835Z"
+  },
+  "__v": 0,
+  "modelName": "Corolla",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765852869796-EEFA7A5F-9F2B-41C7-9C34-FFD0B7B7BCCD.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b8a"
+  },
+  "name": "Performance Brake Fluid (DOT 4 Racing)",
+  "description": "High boiling point brake fluid for improved pedal feel and fade resistance.",
+  "technicalDescription": "DOT 4 racing spec with elevated dry/wet boiling points. Replace regularly for best results. Avoid mixing with unknown fluids.",
+  "price": 6500,
+  "salePrice": 5900,
+  "brand": "Motul",
+  "sku": "10018",
+  "stock": 35,
+  "categories": [
+    "Brakes"
+  ],
+  "make": "Hyundai",
+  "carModel": "Tucson",
+  "variant": "Ultimate AWD",
+  "year": "2020-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 3.2,
+    "length": 3.2,
+    "height": 8.8
+  },
+  "warrantyDurationValue": 12,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T02:41:31.786Z"
+  },
+  "__v": 0,
+  "modelName": "Tucson",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765852891726-EF17C87A-9AFC-4475-9BDB-EBF52E080B59.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b8b"
+  },
+  "name": "High-Performance Spark Plugs (Iridium Set)",
+  "description": "Iridium spark plugs for cleaner ignition and stable combustion under load.",
+  "technicalDescription": "Fine-wire iridium center electrode for strong spark and longevity. Correct heat range matters for tuned engines. Gap to spec.",
+  "price": 16500,
+  "salePrice": 16500,
+  "brand": "NGK",
+  "sku": "10019",
+  "stock": 28,
+  "categories": [
+    "Ignition"
+  ],
+  "make": "Suzuki",
+  "carModel": "Swift",
+  "variant": "GL CVT",
+  "year": "2022-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 4,
+    "length": 6,
+    "height": 2.5
+  },
+  "warrantyDurationValue": 30,
+  "warrantyDurationUnit": "DAY",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T02:42:46.023Z"
+  },
+  "__v": 0,
+  "modelName": "Swift",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765852965982-1DB0BAB8-11F7-49FA-AAC6-BEB4447E8E85.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b8c"
+  },
+  "name": "Cabin Air Filter (Activated Carbon)",
+  "description": "Improves cabin air quality and reduces odors for a cleaner AC experience.",
+  "technicalDescription": "Activated carbon filter media helps trap dust/pollen and reduce smells. Replace every 10k-15k km depending on usage.",
+  "price": 5200,
+  "salePrice": 5200,
+  "brand": "MANN-FILTER",
+  "sku": "10020",
+  "stock": 45,
+  "categories": [
+    "Filters"
+  ],
+  "make": "Changan",
+  "carModel": "Alsvin",
+  "variant": "Black Edition",
+  "year": "2021-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 9,
+    "length": 10.5,
+    "height": 1.5
+  },
+  "warrantyDurationValue": 30,
+  "warrantyDurationUnit": "DAY",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T02:43:47.086Z"
+  },
+  "__v": 0,
+  "modelName": "Alsvin",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765853027037-BBB03559-96E0-45C6-AA00-E8416DD8DBBC.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b8d"
+  },
+  "name": "Upgraded Oil Cooler Kit (Sandwich Plate Type)",
+  "description": "Helps keep oil temps stable for hard driving and hot climate conditions.",
+  "technicalDescription": "External oil cooler with sandwich plate. Requires correct thermostat spec (kit dependent) and proper hose routing to avoid leaks.",
+  "price": 98000,
+  "salePrice": 88000,
+  "brand": "Setrab",
+  "sku": "10021",
+  "stock": 5,
+  "categories": [
+    "Cooling"
+  ],
+  "make": "Honda",
+  "carModel": "Civic",
+  "variant": "Reborn - VTi Oriel 1.8 i-VTEC",
+  "year": "2006-2012",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 12,
+    "length": 14,
+    "height": 4
+  },
+  "warrantyDurationValue": 30,
+  "warrantyDurationUnit": "DAY",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T02:44:35.424Z"
+  },
+  "__v": 0,
+  "modelName": "Civic",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765853075370-A24499A6-17D5-4DFF-A28B-D01C27BCE1B8.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b8e"
+  },
+  "name": "Electric Radiator Fan Upgrade (High CFM)",
+  "description": "Improves airflow through radiator to reduce overheating in traffic and hot weather.",
+  "technicalDescription": "High CFM fan with shroud (kit dependent). Ensure proper relay wiring and fuse. Confirm clearance with radiator and AC condenser.",
+  "price": 42000,
+  "salePrice": 42000,
+  "brand": "SPAL",
+  "sku": "10022",
+  "stock": 10,
+  "categories": [
+    "Cooling"
+  ],
+  "make": "Toyota",
+  "carModel": "Yaris Sedan",
+  "variant": "ATIV MT 1.5",
+  "year": "2020-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 18,
+    "length": 18,
+    "height": 4
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T02:45:36.896Z"
+  },
+  "__v": 0,
+  "modelName": "Yaris Sedan",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765853136854-4D39BAE5-EE0A-4569-9EC8-4D4BD61D616A.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b8f"
+  },
+  "name": "High-Pressure Power Steering Pump (Replacement)",
+  "description": "Restores steering assist and prevents pump noise for smoother daily driving.",
+  "technicalDescription": "OE spec replacement power steering pump. Flush old fluid to avoid contamination. Confirm belt tension and avoid dry-running.",
+  "price": 58000,
+  "salePrice": 58000,
+  "brand": "Gates",
+  "sku": "10023",
+  "stock": 6,
+  "categories": [
+    "Pumps"
+  ],
+  "make": "Suzuki",
+  "carModel": "Wagon R",
+  "variant": "VXL",
+  "year": "2014-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 9,
+    "length": 10,
+    "height": 8
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T02:44:57.228Z"
+  },
+  "__v": 0,
+  "modelName": "Wagon R",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765853097188-B5C8AFBD-D429-4726-BB0C-14FF95FEEAD4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b90"
+  },
+  "name": "Upgrade Radiator Cap (High Pressure)",
+  "description": "Increases cooling system pressure for improved boiling point and better heat control.",
+  "technicalDescription": "High-pressure radiator cap (rating dependent). Use correct pressure spec to avoid stressing hoses. Helps reduce coolant boil-over.",
+  "price": 3500,
+  "salePrice": 3500,
+  "brand": "TRD",
+  "sku": "10024",
+  "stock": 50,
+  "categories": [
+    "Cooling"
+  ],
+  "make": "Toyota",
+  "carModel": "Corolla",
+  "variant": "XLi VVTi",
+  "year": "2014-2025",
+  "seller": {
+    "$oid": "693fc5cc34df913e4cf72d8a"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 3,
+    "length": 3,
+    "height": 2
+  },
+  "warrantyDurationValue": 30,
+  "warrantyDurationUnit": "DAY",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T02:45:14.607Z"
+  },
+  "__v": 0,
+  "modelName": "Corolla",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765853114573-BC062D34-7A2B-4F17-A5E3-A138C9CDB4C0.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b91"
+  },
+  "name": "High-Quality Brake Caliper Rebuild Kit",
+  "description": "Rebuild kit to restore caliper performance and eliminate sticking or leaks.",
+  "technicalDescription": "Includes seals and dust boots (kit dependent). Proper cleaning and piston inspection required. Use correct brake grease during assembly.",
+  "price": 9800,
+  "salePrice": 9800,
+  "brand": "Frenkit",
+  "sku": "20020",
+  "stock": 25,
+  "categories": [
+    "Brakes"
+  ],
+  "make": "Suzuki",
+  "carModel": "Wagon R",
+  "variant": "VXR",
+  "year": "2014-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 6,
+    "length": 8,
+    "height": 3
+  },
+  "warrantyDurationValue": 30,
+  "warrantyDurationUnit": "DAY",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:37:11.289Z"
+  },
+  "__v": 0,
+  "modelName": "Wagon R",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845431249-52D74F84-4B83-49CD-A415-B6D27511F9B6.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b92"
+  },
+  "name": "Air Intake Resonator Delete (Throttle Response Mod)",
+  "description": "Reduces intake restriction and improves induction sound and throttle response.",
+  "technicalDescription": "Resonator delete piece (fitment dependent). May increase intake noise. Ensure clamps are tight to prevent unmetered air.",
+  "price": 8500,
+  "salePrice": 8500,
+  "brand": "Custom",
+  "sku": "20021",
+  "stock": 20,
+  "categories": [
+    "Intake"
+  ],
+  "make": "Toyota",
+  "carModel": "Corolla",
+  "variant": "Altis Automatic 1.6",
+  "year": "2014-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 4,
+    "length": 10,
+    "height": 4
+  },
+  "warrantyDurationValue": 30,
+  "warrantyDurationUnit": "DAY",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:37:20.712Z"
+  },
+  "__v": 0,
+  "modelName": "Corolla",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845440680-4FF9DCA0-7984-49B2-BC3C-67B4160F71D7.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b93"
+  },
+  "name": "Performance Panel Air Filter (Washable)",
+  "description": "Reusable performance filter for improved airflow inside OEM airbox.",
+  "technicalDescription": "Washable filter media with OEM-style sealing. Helps reduce restriction. Clean and re-oil (if applicable) at service intervals.",
+  "price": 15500,
+  "salePrice": 13900,
+  "brand": "HKS",
+  "sku": "20022",
+  "stock": 21,
+  "categories": [
+    "Filters"
+  ],
+  "make": "Honda",
+  "carModel": "Civic",
+  "variant": "Rebirth - i-VTEC Prosmatec",
+  "year": "2012-2016",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 11,
+    "length": 12,
+    "height": 2
+  },
+  "warrantyDurationValue": 3,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T05:34:22.808Z"
+  },
+  "__v": 0,
+  "modelName": "Civic",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845456648-56187647-3A24-42ED-BAEF-6D337F8F9907.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b94"
+  },
+  "name": "Upgraded Ignition Wires (Low Resistance Set)",
+  "description": "Improves spark delivery stability and reduces misfire chance in older ignition setups.",
+  "technicalDescription": "Low-resistance performance wire set (engine dependent). Heat-resistant insulation. Ensure correct routing to avoid arcing.",
+  "price": 12500,
+  "salePrice": 12500,
+  "brand": "NGK",
+  "sku": "20023",
+  "stock": 18,
+  "categories": [
+    "Ignition"
+  ],
+  "make": "Honda",
+  "carModel": "Civic",
+  "variant": "Reborn - VTi 1.8 i-VTEC",
+  "year": "2006-2012",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 6,
+    "length": 12,
+    "height": 2
+  },
+  "warrantyDurationValue": 6,
+  "warrantyDurationUnit": "MONTH",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:37:47.957Z"
+  },
+  "__v": 0,
+  "modelName": "Civic",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845467919-7E7E471E-B6CD-46D8-AC58-B53504C4454E.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "694093858921438752889b95"
+  },
+  "name": "Engine Mount Insert Kit (Poly Upgrade)",
+  "description": "Reduces engine movement for better throttle response and improved shifting feel.",
+  "technicalDescription": "Poly inserts stiffen OEM mounts (fitment dependent). Can increase cabin vibration slightly. Torque fasteners to spec.",
+  "price": 18500,
+  "salePrice": 18500,
+  "brand": "Hasport Style",
+  "sku": "20024",
+  "stock": 12,
+  "categories": [
+    "Engine Internals"
+  ],
+  "make": "Suzuki",
+  "carModel": "Swift",
+  "variant": "GL CVT Limited Edition",
+  "year": "2022-2025",
+  "seller": {
+    "$oid": "693fd01b34df913e4cf740f8"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "isQuote": false,
+  "dimensions": {
+    "width": 8,
+    "length": 10,
+    "height": 4
+  },
+  "warrantyDurationValue": 30,
+  "warrantyDurationUnit": "DAY",
+  "createdAt": "2025-12-16T00:00:00.000+00:00",
+  "updatedAt": {
+    "$date": "2025-12-16T00:38:08.950Z"
+  },
+  "__v": 0,
+  "modelName": "Swift",
+  "vehicleModelId": null,
+  "images": [
+    "http://10.125.49.114:4001/uploads/1765845488914-53C1FF58-A231-4D95-AE0F-EDEE0E8FB6DD.png"
+  ]
+}]
