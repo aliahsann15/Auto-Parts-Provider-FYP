@@ -1,0 +1,79 @@
+{
+  "expo": {
+    "name": "Auto Parts Providers",
+    "slug": "autopartsproviders",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ahmedafz1437.autopartsproviders",
+      "infoPlist": {
+        "NSAppTransportSecurity": {
+          "NSAllowsArbitraryLoads": true
+        },
+        "CFBundleURLTypes": [
+          {
+            "CFBundleURLSchemes": [
+              "com.googleusercontent.apps.622212159184-pf89ehold0rpdk11r3flp9gtlseei1if",
+              "com.googleusercontent.apps.610728595563-b71r4oiv5rm1v9arf9drau4tst58t0r6"
+            ]
+          },
+          { "CFBundleURLSchemes": ["myapp"] }
+        ]
+      },
+      "appleTeamId": "3C5X533YMW"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#101010"
+      },
+      "package": "com.ahmedafz1437.autopartsproviders",
+      "permissions": ["android.permission.RECORD_AUDIO"]
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow Auto Parts Providers to access your photos so you can attach part images."
+        }
+      ],
+      "expo-notifications"
+    ],
+    "updates": {
+      "enabled": false
+    },
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "apiBaseUrl": "http://10.125.49.114:4001/api",
+      "googleWebClientId": "610728595563-o96shqongedshofnkifg3ns15d27fmv1.apps.googleusercontent.com",
+      "googleIosClientId": "610728595563-b71r4oiv5rm1v9arf9drau4tst58t0r6.apps.googleusercontent.com",
+      "googleAndroidClientId": "610728595563-fr7n7o0mn5aihlg9fogjdakosrk28pt2.apps.googleusercontent.com",
+      "eas": {
+        "projectId": "9a28011a-06d3-431d-b0c6-b2e3ed8d5697"
+      }
+    },
+    "owner": "ahmedafz1437"
+  }
+}
